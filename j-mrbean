@@ -1,0 +1,124 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Mr.Bean 1",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-1.png",
+      "view_skin":"https://lh3.googleusercontent.com/SLkgmqD3ydfAnfcnTWbYfPCeKd3qEwANLFOrRKqRGvRHXKTq1wk6HNAF2QnDsoJlvz5E5_hdEredUhd7AWSU1qw"
+    },
+    {
+      "id":2,
+      "nama_skin":"Mr.Bean 2",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-2.png",
+      "view_skin":"https://lh3.googleusercontent.com/rwj_O_UkzySpl1JclxZcj1SqVKeZ3L_rGwe0nFm-viYriqtdfe_d-XtDSitmrwjUo-YEquTM5XvqI8Pt2iMXmA"
+    },
+    {
+      "id":3,
+      "nama_skin":"Mr.Bean 3",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-3.png",
+      "view_skin":"https://lh3.googleusercontent.com/Nfo6XIbE71PsG-f3AZEd3RjDFjpxWAb1rtC59o3ugXbaICyIkr5gah5VqEgqoMZVrBgBwybE2xGThTVvg7eeMg"
+    },
+    {
+      "id":4,
+      "nama_skin":"Mr.Bean 4",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-4.png",
+      "view_skin":"https://lh3.googleusercontent.com/3sfE-buvbTjlLZnUzn31dpOcyapiDqjLDf7r_NsXAUmjh4vFXuwGf5UG-CtUrNathakh3v23aOow7bztIt6H"
+    },
+    {
+      "id":5,
+      "nama_skin":"Mr.Bean 5",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-5.png",
+      "view_skin":"https://lh3.googleusercontent.com/r4NPs6YbAP5aEQj1sWx_Qme2Q4yVbRyyUBQl8we_46SheaacR0peQ23UlNgSd7auqGjterCM9zvqzIx6Gzzf"
+    },
+    {
+      "id":6,
+      "nama_skin":"Mr.Bean 6",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-6.png",
+      "view_skin":"https://lh3.googleusercontent.com/YoTDdOhGJNsAKfaNEJIQDv9I8hBPmlVTivmPksjzbRF05j3_rwcGL5kt0FxGdYgwZikVI2zEcg1pZYin36fe"
+    },
+    {
+      "id":7,
+      "nama_skin":"Mr.Bean 7",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-6.png",
+      "view_skin":"https://lh3.googleusercontent.com/O-Yi3B--_K9o_Nr4l36QJgECCZlukUBWCKtbY7G4zKVD8chK1i7Ng0lxUnrDSI_gIYQSqBZ6OfQzH9ncdwHf"
+    },
+    {
+      "id":8,
+      "nama_skin":"Mr.Bean 8",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-8.png",
+      "view_skin":"https://lh3.googleusercontent.com/TLDycOb1Twy-E_fmiZkoH1Q41YYQPA9Z9Vuscs84tenvTZ6ial8kloz8uyGU6uzY_Lv9q0UsQND5FDghxZJXEA"
+    },
+    {
+      "id":9,
+      "nama_skin":"Mr.Bean 9",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-9.png",
+      "view_skin":"https://lh3.googleusercontent.com/SuUzwxlGqkUUa_ZA0zNjbLHbplPw4IHlcbZjHJ0MGISnh2lY0rvgJrEXeORRZ9TTe0UhC3nq1qK7lslFCF3q2w"
+    },
+    {
+      "id":10,
+      "nama_skin":"Mr.Bean 10",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-10.png",
+      "view_skin":"https://lh3.googleusercontent.com/rljree8qFa60DsdDF9Sxd536oyyjNYG4LUEQcqk7M2weI-GwWFDOHMZLPukpB5bFx1KA8Lt7VWehk-Dh6Vd65Q"
+    },
+    {
+      "id":11,
+      "nama_skin":"Mr.Bean 11",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-11.png",
+      "view_skin":"https://lh3.googleusercontent.com/eJAdmuaWX5DrfJGI5MdtGpWx8k4T0pob1q4mojcvhn-wZewJsfmEb9H4VIdjp9oa3Qv6vxSbiZ-f1QiS3BNn"
+    },
+    {
+      "id":12,
+      "nama_skin":"Mr.Bean 12",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-12.png",
+      "view_skin":"https://lh3.googleusercontent.com/iTAuQQQK6wtyZbyOodBefbHYQk97FpwGei1cjgtcW0KM1YfFJqtJ2zgtX6sJqr0CgotCVg8AKI7kwgTi_F2M1w"
+    },
+    {
+      "id":13,
+      "nama_skin":"Mr.Bean 13",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-13.png",
+      "view_skin":"https://lh3.googleusercontent.com/ePHh9lpSDSCOEvhEYLzzpPOEPtjj-eGtwa-Y0NxE-lVvxJoysY6122716HezEsjkK-V7XnDdgnNGlKyK0x7jXw"
+    },
+    {
+      "id":14,
+      "nama_skin":"Mr.Bean 14",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-14.png",
+      "view_skin":"https://lh3.googleusercontent.com/OXXU0Gyopu6r7SK5Xn_0lVzLxR8-Im9ySJB5wPGHS3NwJ_PycsU9uW8ZBZz51MKR0XXs40gpsGxB-y7okzev"
+    },
+    {
+      "id":15,
+      "nama_skin":"Mr.Bean 15",
+      "skin_url":"https://ia801405.us.archive.org/16/items/link-skin-mr-bean/mr-bean/mr-bean-15.png",
+      "view_skin":"https://lh3.googleusercontent.com/79NTvleGdog-97WwxoePJZFArgwcU02pcPZbXubqoDcHcpH1qumnf6X3KmQ1hl_fvXQKpAuSbEFULadrzqqOkCk"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
