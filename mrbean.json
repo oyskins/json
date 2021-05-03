@@ -115,10 +115,122 @@
   ],
   "Addons":
   [
-
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
   ],
   "Maps":
   [
-
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
   ]
 }
