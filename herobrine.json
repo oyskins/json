@@ -1,0 +1,326 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Herobrine Creeper Skin",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-creeper.png",
+    "view_skin":"https://lh3.googleusercontent.com/UL2BcAycQ1pLOGMhMjC_MPZ82j0CPl7ytXHzyPBiILyBi26uN_MxFaLaNtB8tNk2bJ-lDkUrR8ZUBGwZZZayNQ"
+  },
+  {
+    "id":2,
+    "nama_skin":"HerobrineÂ´s Life",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-s-life.png",
+    "view_skin":"https://lh3.googleusercontent.com/Nnr1-HSQnuv2Uwooc9MGwmPmuJoxuOWfnCmDncm_WnV46kjMVXa5PfjrX75-3EErA_VjPU-AgPVja07savwWsA"
+  },
+  {
+    "id":3,
+    "nama_skin":"Herobrine Hunter Pro",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-hunter.png",
+    "view_skin":"https://lh3.googleusercontent.com/F0PKOdyh116G4FnHDjkUNN4TYVHTstfQLPnSy5JpUlBN2zIcaA5Ncl9Wa_jH-kgvR1sdS39WyyJsUyEez7rNuQ"
+  },
+  {
+    "id":4,
+    "nama_skin":"Herobrine Enderman",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-enderman.png",
+    "view_skin":"https://lh3.googleusercontent.com/xYbcWEjnqb9FVsLKRctB_RDk5Ze_ijztdHivMGm3-XsmXigghnRHgCBB0Rt_7bAEDe304GA9-K8cFURYgYXD6g"
+  },
+  {
+    "id":5,
+    "nama_skin":"Herobrine Fire Coll",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-fire-coll.png",
+    "view_skin":"https://lh3.googleusercontent.com/gpUnMZG_WQAQkEqg3WdDB7fRK9mk12PKW0g1sIZYqf-A97iPNcyjfNpuCYVM81LaCbklNT0f5TekxNmhXAFL6A"
+  },
+  {
+    "id":6,
+    "nama_skin":"Herobrine Radapedaxa",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-radapedaxa.png",
+    "view_skin":"https://lh3.googleusercontent.com/13A1tiiIoxNohSEIYk9hsD2SzNbivNZZx_L8dXjQL0I2sMWmKepOrUX_VsotS8njD_a-udrEr2SH-PQ1cmG9"
+  },
+  {
+    "id":7,
+    "nama_skin":"Herobrine of Wather",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-of-wather.png",
+    "view_skin":"https://lh3.googleusercontent.com/NpOZ0WSNS5DRjEPDylnhZK59lNSj7THqD3oaKYnQwOOL-kamLmv4yv8YEwmsjGvU6JiWUwuaunFEIgIsTBD1_A"
+  },
+  {
+    "id":8,
+    "nama_skin":"Krmstudioz Herobrine Brother",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/krmstudioz-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/lcaDPdQNXncSeSqVFRrUBWTs-B72_KWVJrJJrRPAqp4PBiRSrrn4hJpQUZxH5eIX9dM6TkbL7vfbrBoc23gHiA"
+  },
+  {
+    "id":9,
+    "nama_skin":"Herobrine Troll Skin",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-troll-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/19hyFVNluX-bGEotEd4OnYso_y9Z77rf6T--Rv_cE8_l17K7oZwIOF6S3yF3s13N8K8hkhNcdalGVJiZ9vWmGg"
+  },
+  {
+    "id":10,
+    "nama_skin":"Me Skin of Herobrine Cool",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/me-skin-of-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/mC-OsMRVe5gksRqb6HkCpnjy4VruJMeuivJWMwZzpsjrnf8h0_hk61nm5yBZ0POyFg579y08nDcQNETKJVXyohY"
+  },
+  {
+    "id":11,
+    "nama_skin":"Herobrine Hielo hacker",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-hielo.png",
+    "view_skin":"https://lh3.googleusercontent.com/OxXqF21sODZGojTZbRmir-9SWFM0l2J3V3E1ONAV3p5h2XX3PAsa2AN9gKuJA54wxyqzhm3_gBOguteENMZQx6M"
+  },
+  {
+    "id":12,
+    "nama_skin":"Herobrine Ninja",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-ninja.png",
+    "view_skin":"https://lh3.googleusercontent.com/r8qs2u0_RcrtqWr_KPU-kYmD24hCFIgo_uOLerI94pimk8vUlu4doODNTJxkrcIN4xY4Doxk164T6-5hLvcd9w"
+  },
+  {
+    "id":13,
+    "nama_skin":"Herobrine Skin",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/0UuZ_S7ywhAHHAjuEpgKGeIDfh8pMQfLJtn4FzSXEWAXiltxvzophJyAxSuSa7vKHoX5BVXkJVuqpYHZ863jLQ"
+  },
+  {
+    "id":14,
+    "nama_skin":"Rainimator Herobrine",
+    "skin_url":"https://ia601406.us.archive.org/29/items/fnaf-herobrine/herobrine/rainimator-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/wOHoPSOBaUySggsreYdC31uDKe-jfEf-DjEBapReOVaYXDMFkzGZcRfpwPHpg4fPvgTmmepB1n_UcQ12_ZmM4yc"
+  },
+  {
+    "id":15,
+    "nama_skin":"Herobrine Girl",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/j1fS_vBg3YSLfKAfmP59vD6Cyc8cTpx__i7hK4ass0_9av5_OSC9MLh7sigXZ0Db9Q7zQ9Yqc-W4-vhA4-aj"
+  },
+  {	
+	 "id":16,
+    "nama_skin":"Noob Pro Hacker",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/noob-pro-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/WcAro40fcihTPsMk2Oq68Dqp1P4DdLqm5gEDed1k4K3EqbJwZs-Lfqz44fTv1dKRtvyycKU0pIWrk8gghBg-"
+  },
+  {
+    "id":17,
+    "nama_skin":"Robot Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/robot-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/uzoDr2CV_Fg9Sy7sJOUiX5ooHQQkJWFk3N0edQYy0g1WZrfNaWWfIWdTkEe7PoVq-O5EjX-Yr1z1GNz6QRwsCQ"
+  },
+  {
+    "id":18,
+    "nama_skin":"Herobrine Wolf Girl",
+    "skin_url":"https://ia601406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-wolf-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/M9Qw1sOgD2bkgM3ZkwoMbgRPyUSUF5NTJ2FngopP11RuuvQf_X3D_vJ9pyQ2_ueNTERj-QCcoiC9hH7ibL3Osw"
+  },
+  {
+    "id":19,
+    "nama_skin":"Fnaf Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/fnaf-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/Z2KefoveassTKUYKU8Bg7M-JkfINYh4pIreo_wjHl2Zl-7YoKGvFFDsQJj3b5hImz95qYA-alqvohZLqRJrafA"
+  },
+  {
+    "id":20,
+    "nama_skin":"Herobrine Controlled Zombie",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-controlled.png",
+    "view_skin":"https://lh3.googleusercontent.com/7LWoFtifc7BlVArn4UFq8HtL0D3CnKmRtHM617dfxvHwfjVCgmmmhjMYzGa46av4KIb871camZIDww6B4dpn"
+  },
+  {
+    "id":21,
+    "nama_skin":"Xdjames Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/xdjames-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/D3pgw6zwyGkXUfwzDKCVJWkt8E-MwZjPBG-YJoQOe3MGx2t9UOjQOtNQqEAVt_fbU_DNlbLH-1B54PlAN50K"
+  },
+  {
+    "id":22,
+    "nama_skin":"Fire Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/fire-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/Z9xD1EY5zp6I3BxSkVcHw7EmF4ATVuFu6lhJDLzztcmSxwLIcqGibFdyx_lrNhLufKRwXKAvE58stow4JpfGcg"
+  },
+  {
+    "id":23,
+    "nama_skin":"Herobrine Iron Golem",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-iron-golem.png",
+    "view_skin":"https://lh3.googleusercontent.com/4yhlb3FnluIOOGq5YVxLrd9A-wyCEe4vu2i5AQoro1ZhbLn8ufi8mTV1Ae2Ilu-OGf4Zb1r1SL1w1PuJ3F4J"
+  },
+  {
+    "id":24,
+    "nama_skin":"Monshiiee Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/monshiiee-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/J5Ynjop0KoFG9AiOcmVTN2MzCvG6cS1JqwgplRCleR2a1c7togWBRVpmAM_kNR6s-bDbDuonpQisGvgIbVUE"
+  },
+  {
+    "id":25,
+    "nama_skin":"Herobrine Akatsuki",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/herobrine-akatsuki.png",
+    "view_skin":"https://lh3.googleusercontent.com/rvaC3dFdX6PLrwbRAMC_ZXwsRQTfV8oCeEGi8pAYBSuyWNKYncWoanZ1EnM7lwOWoevMNIKL7hONPS5B_AGHdg"
+  },
+  {
+    "id":26,
+    "nama_skin":"Pro Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/pro-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/RPGGNstzpaoCVrw8goYDSJ0p_4stsC22xy8yjxSz8O3H1rmK_UxBjtllR9Y5gFgNWT7UB6T5pLG6UC3Ka0RaVvs"
+  },
+  {
+    "id":27,
+    "nama_skin":"The Ghost of Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/the-ghost-of-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/yAsyl-1lxkKJcrEsi7FUJTODBkzR-0JIdMFCu1FwfOJaHzyqMO3I4sswNi3av8pqsRLmFWPUg0tqljP1dMa18A"
+  },
+  {
+    "id":28,
+    "nama_skin":"New Skin Herobrine",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/new-skin-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/1cgPG8YZifGXrwFg0yMyaeHJ8XBoq3FbOofGnoqAIJ_jWKoN3es3fH74udZomUUoRlWZJIrIh7JiRfbMU_dn8A"
+  },
+  {
+    "id":29,
+    "nama_skin":"quenn wolf girl hallowen",
+    "skin_url":"https://ia801406.us.archive.org/29/items/fnaf-herobrine/herobrine/quenn-wolf-girl-hallowen.png",
+    "view_skin":"https://lh3.googleusercontent.com/vRnNKVUBgmOyp1tTigV61e8VFYdYjqv3ADW3eBNCX7OeidIO2jtz-VSBEObNiH8C9VczAwC5tvMwGRaogknVgsQ"
+  },
+  {
+    "id":30,
+    "nama_skin":"King HeroBrine",
+    "skin_url":"https://ia601406.us.archive.org/29/items/fnaf-herobrine/herobrine/king-herobrine.png",
+    "view_skin":"https://lh3.googleusercontent.com/6g_uMBxP2tvJC6mWlFkScS8g99n_pQnRoeFJsa8i-b5AVzpA6kwS_Y4LNnw6mmzInbMmEHx3svOXT8ZnRwFecQ"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
