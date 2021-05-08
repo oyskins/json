@@ -1,0 +1,236 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Ben 10",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/aluhi1m6MT7xPUNMye9efszP5Yg4H0o3Uu5Bf_1Wn7esVvCpeLPplcZ71sYIRqTFh3--5C54p_4Ci9lreNSh5A"
+  },
+  {
+    "id":2,
+    "nama_skin":"Ben 10 Heatblast",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-heatblast.png",
+    "view_skin":"https://lh3.googleusercontent.com/MglRSm0eJlH3h_pBEdYQOB5kpXpk514WWPZgtBdl03i9MvA6aDawlRStLyU49h4MvTlWk2lnptkTnSb-wJTRWA"
+  },
+  {
+    "id":3,
+    "nama_skin":"Ben 10 omniverse",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-omniverse.png",
+    "view_skin":"https://lh3.googleusercontent.com/ktaCPjTpP_jJv_yO46mHoSrANoRXKWq_bBbRtq-jcYMSYntvy4QLem_udTE38Tnmqz_6eYeb0OaBNVMuOWQv"
+  },
+  {
+    "id":4,
+    "nama_skin":"Ben 10 Robin Hood",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/robin-hood-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/ejHX452xp_sRAgy8O9WAwY-ecMgU7MGPde4RZJl9NQK0GAhcfG7OAMToO0oC2tvBJWCEVm-4THzK4jebOpjfnzg"
+  },
+  {
+    "id":5,
+    "nama_skin":"Ben 10 Canobolt",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/canobolt-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/8qFaLLwQgGLdvNACACPtUCSo4EbiklgMj30lbQdNvVL1iW1EnhEgPxn7j21xvXOkinFcAL6ZbH2FRkBUdRnLrQ"
+  },
+  {
+    "id":6,
+    "nama_skin":"Ben 10 Hacker",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/4miZYRXTilADC2Z2sRW9JSamvP26PNcGSXruSbrJmNCidTR9q6aYOVTjx6-2KItkf8jSfhsatDLigoAbgIrfO1o"
+  },
+  {
+    "id":7,
+    "nama_skin":"Ben 10 Hama omni",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-chama-omni.png",
+    "view_skin":"https://lh3.googleusercontent.com/dr5VbbofSyIv7b9g35L03_mRl4bP8u2iosIPvNBcTJJHWRkMQjryC5TT_5UKhhNb2b_EGO2ZFGNi6U9RKa69"
+  },
+  {
+    "id":8,
+    "nama_skin":"Ben 10 Omnitrix",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-omnitrix.png",
+    "view_skin":"https://lh3.googleusercontent.com/Hbef3-9nGlk4T1BH66LZqFgqP8uab_FvmXY6J__1Km4ZB-cUrC7YB079krQfoM8BDncu4p7NY-1Sq0gGD4hAEw"
+  },
+  {
+    "id":9,
+    "nama_skin":"Ben 10 Reverso",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-reverso.png",
+    "view_skin":"https://lh3.googleusercontent.com/EdJWsXRBF4RrKPNNjkD7xBMPOGoh5wmDT-mtXLxi-ZP_dWugbaPUULUAqMoGNkNXZzruAMBJjHOq-hCX4DcclQ"
+  },
+  {
+    "id":10,
+    "nama_skin":"Shock Rock Ben 10",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/shock-rock-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/KSwxuHwdnJvp2Al5VKAOzPooEW9NDbIMS9iB6aXnX5MQRBKxtUU2L8meWNysxvMlmFP1h13ji8dCo4NXAe_4KA"
+  },
+  {
+    "id":11,
+    "nama_skin":"Ben 10 Rath",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-rath.png",
+    "view_skin":"https://lh3.googleusercontent.com/XrJm74sxRlZh_W1ruwuaR8ywhDZbFR_jlTNnkocypeQNTKxMpTfXXjPJeaXS6c-NEyabMvszkynyv2hGZRpa"
+  },
+  {
+    "id":12,
+    "nama_skin":"Alien Ben 10",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/alien-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/gHCG-S6EkLublxsAzhFab4mpFTVL85BaMjVEK0t8Lbc5VGFZGlWUWLy-wTrQdlOXPkLXWkcUz0fDp9S4O2oSVG0"
+  },
+  {
+    "id":13,
+    "nama_skin":"Way Big Ben 10",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/way-big-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/AV1c8wzGGVvZdyKEegNOEDP6_gFBFXSEtk70fFshqETP3cPbag8y1s2RoR1dIss_kjdARl1ayl9A7HZAAV8MXaw"
+  },
+  {
+    "id":14,
+    "nama_skin":"Luiz Ben 10 Utrate",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/luiz-ben-10-utrate.png",
+    "view_skin":"https://lh3.googleusercontent.com/Diwp--etGpFXyfbBnAB3uw0ddhdrYnIpdWjQ3Lnk4TX6lSsGKcraPkH9rWmFLOO4apK8M1pg5QSQgdSpg4zcYJc"
+  },
+  {
+    "id":15,
+    "nama_skin":"Ultra Ben 10",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ultra-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/Q1r6MPiKLyeUqkbj5aLVMRNasYTllcEM5eg6jt6xIiwtX29hs-YgeCDmsimLfxhSdKBgdsnKsGN5uz3JfdaV"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
