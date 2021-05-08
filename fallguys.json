@@ -1,0 +1,236 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Fall Guys Red",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/1.%20FallGuys-Red.png",
+      "view_skin":"https://lh3.googleusercontent.com/bdr1lpYDIejQ4YjI4DPbbUgT03a4KK1bUxoKPTDTwlcNb69dka9l4rKxSoWPf5lyEcT2hQCgeRN0sp705h6y"
+    },
+    {
+      "id":2,
+      "nama_skin":"Fall Guys Pigeon",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/2.%20FallGuys-Pigeon.png",
+      "view_skin":"https://lh3.googleusercontent.com/uvX0IIkj_BBo6VW05osLv1REe2haz2Qc6J9kIul_sy7qL9xptABjUnPFDbQl_4WUxAiVrEdfUuCGlcMylwGX"
+    },
+    {
+      "id":3,
+      "nama_skin":"Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/3.%20Fall-Guys.png",
+      "view_skin":"https://lh3.googleusercontent.com/77OTtt3fxHQ6w-qXdhKaGZnDeeuua8HVvkbqUiltLM9gBUOGAFkJjpPnvcxALPVFPvj_ty53QGzgzstfR9zD"
+    },
+    {
+      "id":4,
+      "nama_skin":"Fall Guys Pollo",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/4.%20fallGuys-Pollo.png",
+      "view_skin":"https://lh3.googleusercontent.com/Q-SIbz-KeT1SHxdWCnWHam_WO7eJgM0ENAtd3bI6f3YsMci5wC3jDl0MDPUgVRQHuR2SFLPqXtUGgxrQZLvoNA"
+    },
+    {
+      "id":5,
+      "nama_skin":"Ninja Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/5.%20FallGuys-Ninja.png",
+      "view_skin":"https://lh3.googleusercontent.com/lYQy7odd3PBHVWADeHUgUupXbk0j91KO4SSg_CW8uBgrUn8gZKH3xE5qYHPcRh-88aMIqtUDpuOKLFO9QkOZ"
+    },
+    {
+      "id":6,
+      "nama_skin":"Fall Guys Blaze",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/6.%20fallGuys-Blaze.png",
+      "view_skin":"https://lh3.googleusercontent.com/_dnNOmLcvAZEMOV9IWJFyp-ho55BcQuPbdxIG4cNARh_VPArSmj74qGqdgCyuOXtoGMgvzuzUb5m7s6pODA7"
+    },
+    {
+      "id":7,
+      "nama_skin":"Fall Guys Steve",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/7.%20FallGuys-Steve.png",
+      "view_skin":"https://lh3.googleusercontent.com/kirl2SYGDDh19ck894jSl--tjCnioh1tnRVC2uQTwINYyn-DYfER7lxpVSVn9v0Rwf2cFMGOJ9BuANTGfbKKFSY"
+    },
+    {
+      "id":8,
+      "nama_skin":"Fall Guys Winnie",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/8.%20Fallguys-Winnie.png",
+      "view_skin":"https://lh3.googleusercontent.com/WTKUWizBHuYODmattKDUNVz_Xy00QFswFCaVH7t6CItrBy2FH6U23F1iRIII7oZrZyUXjtg928LM5-ZY4OjCUg"
+    },
+    {
+      "id":9,
+      "nama_skin":"Fall Guys Ananas",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/9.%20FallGuys-Ananas.png",
+      "view_skin":"https://lh3.googleusercontent.com/8-HXE8xcTuDNL18tB13i8LBySc1SC9hA-YMYRF7Pkx5E7Wz-ak_4PghK66A3yIniuSmxL4DElgFqvXDtVwwD"
+    },
+    {
+      "id":10,
+      "nama_skin":"Fall Guys Hot Dog",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/10.%20FallGuys-Hotdog.png",
+      "view_skin":"https://lh3.googleusercontent.com/d0iPbZ6De5H0IlDTrbFLX1zvHvXp8iz9Zv6FM5fOiSMh_eoaOj3PWYAkq4uZS6vrfskuP0z8B4ZiIomra0P7WC4"
+    },
+    {
+      "id":11,
+      "nama_skin":"Fall Guys EXE Boi",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/11.%20FallGuys-Exe.png",
+      "view_skin":"https://lh3.googleusercontent.com/eJZPEFVUXPM66D1cIEVeRDp8bEWY6WmnXBOfIp1X-BcU60kGax_k7S8HHxYpmEfOnK7jQYM1fSLX_KVxUPhr"
+    },
+    {
+      "id":12,
+      "nama_skin":"Ropa Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/12.FallGuys-Ropa.png",
+      "view_skin":"https://lh3.googleusercontent.com/CIcPpV4uQ368PwcXea1GNASL9-UBpMH46qejSnorCKvJ7XwCAMJuSj0a-GoA_6YKumkeQKrj6jHBf2YzdHmndNU"
+    },
+    {
+      "id":13,
+      "nama_skin":"Fall Guys Pirate",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/13. FallGuys-Pirate.png",
+      "view_skin":"https://lh3.googleusercontent.com/xsIBrYfj_x9WTSkILgPGkkQ251PS_CKr6cUZyTEvV3sZEv-sVYrZ4Hd3cBr-d_znnZwHmLqJEaRjLyYOJb5JKw"
+    },
+    {
+      "id":14,
+      "nama_skin":"Fall Guys Cactus",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/14.%20FallGuys-Cactus.png",
+      "view_skin":"https://lh3.googleusercontent.com/lo5P0YNjqfKV3pgaAgmmjocOFCDsXantbz2P7N9e7N1LKDTxzxZUwXePR3kmJoudeSDMbd95en3qEJUuIEJEzOs"
+    },
+    {
+      "id":15,
+      "nama_skin":"Fall Guys Blue",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/15.%20FallGuys-Blue.png",
+      "view_skin":"https://lh3.googleusercontent.com/HU6g5fLnE545w0ZLmljHy6CuHklW8N1CGFvklbVOa1COeASGS2EGKsxH6ntAhEcV5oiuawcdTb3As2WmcBl3gQ"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
