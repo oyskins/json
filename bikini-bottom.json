@@ -1,0 +1,236 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Spongebob Squarepants",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/1.%20SpongebobSquarepants.png",
+      "view_skin":"https://lh3.googleusercontent.com/gdpwfG6tZAYOV4_TUH6sM6CffPpe8Q-CDkaLx_onWM_QGL-pJyFtopX1V5kQdel-svDjwFWSWgKZJrk0rmEa5w"
+    },
+    {
+      "id":2,
+      "nama_skin":"Patrick Star",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/2.%20%20PatrickStar.png",
+      "view_skin":"https://lh3.googleusercontent.com/sP26gMq8RPos10AioTarmYZaC-_q505Y8AT9N2mTFTHfXSVHpR0S-aNR_nGpJmBXkrjDcmTbbgfLXCPIKRHsow"
+    },
+    {
+      "id":3,
+      "nama_skin":"Sandy Cheeks",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/3.%20SandyCheeks.png",
+      "view_skin":"https://lh3.googleusercontent.com/rE-HIetjGp9cQDueyqQMvdciJb5BEp5bnbImP1GliKwGK8R4iFv83ZIKRzoeNySYTuX1kSAAqBHrZcg6g_6s"
+    },
+    {
+      "id":4,
+      "nama_skin":"Squidward Tentacles",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/4.%20SquidwardTentacles.png",
+      "view_skin":"https://lh3.googleusercontent.com/WXApNH2zHaC12Jox38XFphXdIgfeQ8WlY53bf-B4SudIlwyOW1F_-D9zFZPkpz6oU8Jj0gW13mLwkuygnyLOyQ"
+    },
+    {
+      "id":5,
+      "nama_skin":"Mr Krabs",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/5.%20MrKrabs.png",
+      "view_skin":"https://lh3.googleusercontent.com/jlUHn4rPIOVmWCY-yb55u13IHU9Gh2Q8wYdczjZdTRcV7ty9Wj1cJ1TYNTcYFgbEJRbOba_REOGKMfc9Hgpn"
+    },
+    {
+      "id":6,
+      "nama_skin":"Spongebob Kah Rah Tay",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/6.%20SpongebobKahRahTay.png",
+      "view_skin":"https://lh3.googleusercontent.com/vfHQ6n6Zn0IgolEXiFX2r5iRR-Lu3bW9zIlNLL15KipmXhbpD-e-wbMhL7cheqhOYoBTSc8lUNkNvbJIBOmoQE8"
+    },
+    {
+      "id":7,
+      "nama_skin":"Future Spongebob",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/7.%20FutureSpongebob.png",
+      "view_skin":"https://lh3.googleusercontent.com/yzPQ1I6ylCHM2TJnDwrr6NLWqUFyYSDLpLq-jFWbxweIwn8W1UQlcdqrbrFA7MDuVRDbuhZr5kGL4-9SJhSXOg"
+    },
+    {
+      "id":8,
+      "nama_skin":"SpongeBob SquarePants Sword",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/8.%20SpongeBobSquarePantsSword.png",
+      "view_skin":"https://lh3.googleusercontent.com/OGEXlir6Oios848orXz1oaGIPhaX0xwWgLFwW1pvCe3bCTJ67P1-5zFFp8xwMHX14-2Bbf3iF4ax8YmPm8LF"
+    },
+    {
+      "id":9,
+      "nama_skin":"Future Spongebob 2",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/9.%20FutureSpongebob-2.png",
+      "view_skin":"https://lh3.googleusercontent.com/G5iNcWlcZ7RgQ0XacChU0pKfbTL-WklOoZe1_VszRFVBUEQMA3x_WblUfdNIEJu5lWzFQvTUlwXQ2v0GHmZ-AMw"
+    },
+    {
+      "id":10,
+      "nama_skin":"Uw Spongebob",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/10.%20UwSpongebob.png",
+      "view_skin":"https://lh3.googleusercontent.com/YTBji4BZwNQvYrTj6KyIzS-4XIVtBR7VXKmr6z5jOX2kUNVuxO4hXutSs8XRq-t84Z_DEtshRlRe8PB7ESBzqA"
+    },
+    {
+      "id":11,
+      "nama_skin":"Ripped Spongebob",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/11.%20RippedSpongebob.png",
+      "view_skin":"https://lh3.googleusercontent.com/BOpI5vzvQQYGLrTXZt3gDLc_F9ySGjBRoS9QI1dQyffgZZhzdaYTJUBdIeab3x7ce8qORgTGAVSJlEtf6C6_"
+    },
+    {
+      "id":12,
+      "nama_skin":"Spongebob Hoodie",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/12.%20SpngebobHoodie.png",
+      "view_skin":"https://lh3.googleusercontent.com/ObD3PpjRxYAwVhQHXpUzTcaYZ52HGAImB50xE5eSfqLH8-uuaBSgV97zWZiZJc2VDqJrumoRLyXL5aTSehql"
+    },
+    {
+      "id":13,
+      "nama_skin":"Plankton",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/13.%20Plankton.png",
+      "view_skin":"https://lh3.googleusercontent.com/nUk93wMyaWKXqwex_EBio90x3D4__fWJSvg9jMzFHBia922CPBGXalv5uYZ6MXMMrOi2D_JWR4s_93eTd4jsVdc"
+    },
+    {
+      "id":14,
+      "nama_skin":"Karen Plankton",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/14.%20KerenPlankton.png",
+      "view_skin":"https://lh3.googleusercontent.com/UXX-Jkdq7rv96KoQA6tS_DUe10IRivQOQxIXYCdW9hHYQqI1kG1mnA04Etg9o0QhWWK-FzNe-lnjf0JNGdlwMA"
+    },
+    {
+      "id":15,
+      "nama_skin":"Jellyfish",
+      "skin_url":"https://ia801509.us.archive.org/32/items/spongebob_202010/Image%20Sponge/15.%20Jellyfish.png",
+      "view_skin":"https://lh3.googleusercontent.com/cDuy24Dqh3D_1Po0GwUt2SwvY9MlUc2Hneq29O3YcxzVql7VPUm44VF5aDllyCZ3ZtgARpF-eR03qf5djy0GaA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
