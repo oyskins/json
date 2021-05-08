@@ -1,0 +1,266 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Granny",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny.png",
+      "view_skin":"https://lh3.googleusercontent.com/00PUfqduswPOKuD2AMfeOA81NfQhxVranmuN82dCcTe6m7WIQhBAiZlM5KRalrv8J4Wh4S1lcW69MOeqqw4yPQ"
+    },
+    {
+      "id":2,
+      "nama_skin":"Granny Capitalien",
+      "skin_url":"https://ia601406.us.archive.org/33/items/granny_202010/granny-capitalien.png",
+      "view_skin":"https://lh3.googleusercontent.com/86kv_phOgK6xQU1WGsD9iiJ7qbaVbnexsO0RX5rYNM3bLb6ktYwEPuAudSh__zME3BlCRTsk4sJadONZWscmhg"
+    },
+    {
+      "id":3,
+      "nama_skin":"Granny Villager",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-villager.png",
+      "view_skin":"https://lh3.googleusercontent.com/M5Bxr92Lr7taWjqnSycCYVTrVjYVQ1PD-bgkdLqtqy6zrKN_-KTmnA_a9YUObLVR2lygrFHOMBKvQ1Rz1vRHE_0"
+    },
+    {
+      "id":4,
+      "nama_skin":"Granny Red Eye",
+      "skin_url":"hhttps://ia801406.us.archive.org/33/items/granny_202010/granny-red-eye.png",
+      "view_skin":"https://lh3.googleusercontent.com/4JsdAmCX-kkRvmGoSO1piBOdVi6AqS8xRalzKGWu2Zm5Mcw4cqdz5teWfxw2w7z5tODoXiuXvSYBL9w0A4uHgg"
+    },
+    {
+      "id":5,
+      "nama_skin":"Granny Grandpa",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-grandpa.png",
+      "view_skin":"https://lh3.googleusercontent.com/gtPWZ7gOEtD6JJBeNZ1VM2SY6arJmSMRfuJ4gJ-bwikDbxPYGtCIUoNdOltncfS20_frM097OeK8qlhkRvhd7Is"
+    },
+    {
+      "id":6,
+      "nama_skin":"Granny Frost",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-frost.png",
+      "view_skin":"https://lh3.googleusercontent.com/4bIXlyAwC8bt1efKLo8CBQjtVXm1rtLr1yFv3Xqi3QticA13EcL1JNLBZbXifmyXqJ5-6V8nzPWWKsBCo745MA"
+    },
+    {
+      "id":7,
+      "nama_skin":"Granny Barbie Nanda",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-barbie-nanda.png",
+      "view_skin":"https://lh3.googleusercontent.com/1d40jQ42S7auj7jMDfKO_sgQUCGYjH-BbWNmkx0OGHSk8qT_gf_nANl_985rUMIlNcgsp17Q8aElB7TZBRbdXg"
+    },
+    {
+      "id":8,
+      "nama_skin":"Granny Chapter Two",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-chapter-two.png",
+      "view_skin":"https://lh3.googleusercontent.com/k3-3ZWD-y1HQnz7PMI2yXFr9nZ7c1tu8sgbcnP1RdT1m-gwrCRCI5Ivdx4m-hkUL90faCdhLJqvg3oUr55ms"
+    },
+    {
+      "id":9,
+      "nama_skin":"Granny Pink",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-pink.png",
+      "view_skin":"https://lh3.googleusercontent.com/eHsxgjYtwwY1x8_yT1fJpPv8-ICl0t1kfP_kCIOBWckr9hwybDo6flkLb8SlPIW-7BsRg6hecdoTRMM1s7K8LQ"
+    },
+    {
+      "id":10,
+      "nama_skin":"Foxy Granny",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/foxy-granny.png",
+      "view_skin":"https://lh3.googleusercontent.com/51pn1ge2_fwZ_EdPcXUl7AhsrRiVSTJLPznUuFWwDbuFunYTvUGB4vaA3DzrxQUFzsyYd68FPDMtcdl3VsjKVg"
+    },
+    {
+      "id":11,
+      "nama_skin":"Granny SCP",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-scp.png",
+      "view_skin":"https://lh3.googleusercontent.com/51pn1ge2_fwZ_EdPcXUl7AhsrRiVSTJLPznUuFWwDbuFunYTvUGB4vaA3DzrxQUFzsyYd68FPDMtcdl3VsjKVg"
+    },
+    {
+      "id":12,
+      "nama_skin":"Granny Sangrenta",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-sangrenta.png",
+      "view_skin":"https://lh3.googleusercontent.com/SNMfkp5NUDVkTRbagUEKxQp8eV_G4LC9-_iiXbxEfe-xjz3E0x1MCLTfNmZ43AfmS3-nVnjJyFLtLo1rT8Iw"
+    },
+    {
+      "id":13,
+      "nama_skin":"Granny Fire Soul",
+      "skin_url":"https://ia601406.us.archive.org/33/items/granny_202010/granny-fire-soul.png",
+      "view_skin":"https://lh3.googleusercontent.com/6Tb07xhih1eM1KF-qnGUHmP4bLlRMjy75XHS1FMurhAEWL0eHKTArTaLLv6kMw7e09GOj-iNTk6AMqQ16V8t"
+    },
+    {
+      "id":14,
+      "nama_skin":"Granny Blacksmith",
+      "skin_url":"https://ia601406.us.archive.org/33/items/granny_202010/granny-blacksmith.png",
+      "view_skin":"https://lh3.googleusercontent.com/n7o9AgN3IlEVPrxRLPoHKCaZ3kWwEB41MVThlH0N9FRdllbZdzk0vX7FYHBc_v0bVM1gFDHYehvQNJ5sm_IFBg"
+    },
+    {
+      "id":15,
+      "nama_skin":"Granny Nova",
+      "skin_url":"https://ia601406.us.archive.org/33/items/granny_202010/granny-nova.png",
+      "view_skin":"https://lh3.googleusercontent.com/cyOoQuO0OZ28fcL61TaeErBdtuxo2xNfAby5HzGEx6BwrG4g6wgxjqvvSgHipkQ0r381oRirbcEDZ9u-w1n7"
+    },
+    {
+      "id":16,
+      "nama_skin":"Granny Emerald",
+      "skin_url":"https://ia601406.us.archive.org/33/items/granny_202010/granny-emerald.png",
+      "view_skin":"https://lh3.googleusercontent.com/wCXGxe80o5Zo9KORo6Z2yCOJJ7avDPl8S4vuGmikLO6b-ZL-wVNU5nYNqqtQ-if3hCCdTjkQr4j7F57sJWpuKA"
+    },
+    {
+      "id":17,
+      "nama_skin":"Granny Sonic Underground",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-sonic-underground.png",
+      "view_skin":"https://lh3.googleusercontent.com/7Y1xK0nVvPIpOnp6Vjw9ppzSzYM8gidSTMca52oaVBsoPdeARMDcu0aa_ZkwFzTy6OHLfH4vQQtMVEQC011jdQ"
+    },
+    {
+      "id":18,
+      "nama_skin":"Granny Oc Cho",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-oc-cho.png",
+      "view_skin":"https://lh3.googleusercontent.com/dodofqUJuvI5QN0aH5ivIUohc7Cg8FB8xRuFkwrf69nkkmE625jp0BYJgRjh2ZWA7nLcpShWtq3NNpUzUv6_U_4"
+    },
+    {
+      "id":19,
+      "nama_skin":"Granny Bob",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-bob.png",
+      "view_skin":"https://lh3.googleusercontent.com/nAxLsGZ8PcdOdo-gNc5pHVPITLUJESuIypSDQ5MmqIQy_i0c0tzC-tPEPFgURv62Aqt_2SrFJUVquUdvwA1o_TY"
+    },
+    {
+      "id":20,
+      "nama_skin":"Granny Police",
+      "skin_url":"https://ia801406.us.archive.org/33/items/granny_202010/granny-police.png",
+      "view_skin":"https://lh3.googleusercontent.com/FAcVQXJY2G5CCOjQMXN_7Nm7XJn8zQLQHMljRl98fzj5sDNmEZ3iDx5uFX2IOQdHX9uwLNGWK1oiz9oxBxcNUAs"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
