@@ -1,0 +1,236 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"MCPE camouflage rochers",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/camouflage-rochers.png",
+    "view_skin":"https://lh3.googleusercontent.com/Q3F3daKs-trQltuVz7Mbd3zRCBTCECnCJoHdrjXXntLDBCsOIK-wepY619BLvXpTgNbmWVKPdbQYHSXydwt4GA"
+  },
+  {
+    "id":2,
+    "nama_skin":"MCPE Camouflage Tronc",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/camouflage-tronc.png",
+    "view_skin":"https://lh3.googleusercontent.com/haIkFw85CqBMtCDH-AdgkL7iN1luBuARLXXDyHWVOTbtAjk_4PzseqtWOBtkV08TX1Vfl_7FSslT_gw9mOE"
+  },
+  {
+    "id":3,
+    "nama_skin":"Camouflage",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/yIjtXJ3nzWUdWjfU7zf46A114jes5EitUL0wzQXlWRWHnU-a-cu0WY5KyvVkCEK7mMrV_msVUG9obArRysAsjw"
+  },
+  {
+    "id":4,
+    "nama_skin":"Militaire Camouflage Neige",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/militaire-camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/DJ9UUIgLJw3kbT4ImAQ6h14bKdNW1_80b9okd6dK0ZWGUgy7klhe3QS0Hcf98PAEgwtRPK9MJB0i6_CMN3YC"
+  },
+  {
+    "id":5,
+    "nama_skin":"Ender Man Camouflage",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/ende-camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/VhSniR_Y2i3IJ7V-S-baEPEdA7SiESVbHRpJWYXGwQAUhvEmX4wW7GdCj0PExNM_OOYq4sQcSE2kqWl0DIjg-Q"
+  },
+  {
+    "id":6,
+    "nama_skin":"Forest Camouflage Soldier",
+    "skin_url":"https://ia601402.us.archive.org/9/items/mr_camouflage/camouflage/forest-camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/AHoDbalw_5H22eStfi2ckmIpkIQu9HsKde6-lEpwj0ENcZc4EaUGmYjrlo9G-Ol_KmWSnbX64rEG5l0nxarTWw"
+  },
+  {
+    "id":7,
+    "nama_skin":"WW2 German Camouflage Soldier",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/ww2-german-camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/fyCBHldvhndjJv1aQLCmLB833-QrMwW9tst2v-pDqc1EAi37sIp3b0M_hPOzY3yjsL2Wif3e6KYD9Cmge3s9"
+  },
+  {
+    "id":8,
+    "nama_skin":"Camouflage humain",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/camouflage-humain.png",
+    "view_skin":"https://lh3.googleusercontent.com/2nbbroPiixD5zW-hdxiWHJuvo-Ugie-UXgJX-CfiMdLGaD2feGPAIgDsClxHGw9drNnnk1W6fd8Yq-z7qVOj"
+  },
+  {
+    "id":9,
+    "nama_skin":"Girl in camouflage oversized hoodie",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/girl-in-camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/dvKS2uaTdjDiRaS4LcvR4aN42PFKuOwaUJY5ExUnMoVnd8Yh9QaLYFMo7j2L8KKQuMltu0W9ieLuMIo8ZGt-NA"
+  },
+  {
+    "id":10,
+    "nama_skin":"Camouflage Eau",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/camouflage-eau.png",
+    "view_skin":"https://lh3.googleusercontent.com/YFjODxyHz0eBd4x13N4K5ufyhTJyfGPlRepdz2BSLmMOhmnCXxBAMHEMhaQymGBjUxLEcDn7KsxYJRo5Fh2n"
+  },
+  {
+    "id":11,
+    "nama_skin":"Camouflage 2",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/camouflage-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/Bl55yx9QpeaPPm0Z08iwQEHFizf_jQSg8oRUlp-Cvp6wurm_ZmQvCQgu5S4wrCt0fKdR9t7xc1c8XA-Lf6YtvA"
+  },
+  {
+    "id":12,
+    "nama_skin":"Stone Bricks Camouflage",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/stone-bricks.png",
+    "view_skin":"https://lh3.googleusercontent.com/qw_INjzUSDExtSffCyswzzqWwJ2Wf6Bm7uBlUr46orivOdpw5_t0sgUpVzPirO9Aew1vX_2FlnwOXJkLGIzIHQ"
+  },
+  {
+    "id":13,
+    "nama_skin":"Mr Camouflage",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/mr_camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/rFMw9ku_62s-Sf89vPA81qDoxy2WnwDiRy4Gf7dm23ouz6t_a6uVfwCjpqhn9aXwMZfPOrVYUGPuKs3qd43TOw"
+  },
+  {
+    "id":14,
+    "nama_skin":"Boy Camouflage",
+    "skin_url":"https://ia601402.us.archive.org/9/items/mr_camouflage/camouflage/boy_camouflage.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZLPX75AZyVzIS6NXELXBi8XQV92Us6hCllrdQP5QKvjd_bOUnVdTKWwU3cLy_y8yRiWPebJJCeLDkfmZeB_b"
+  },
+  {
+    "id":15,
+    "nama_skin":"Ninja Steve Camouflage",
+    "skin_url":"https://ia801402.us.archive.org/9/items/mr_camouflage/camouflage/ninja-steve.png",
+    "view_skin":"https://lh3.googleusercontent.com/0He7SQuKOquUSc3w4bIIL5b1Y30D2Lz_ihUiKXBktsLnWd1YJfVl80QI__-RNzecVSSbQrnD1z3xIKhdbvD1_g"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
