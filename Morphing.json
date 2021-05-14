@@ -1,0 +1,230 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Might Morphing",
+    "skin_url":"https://ia601507.us.archive.org/12/items/morphing-golem/morphing/might-morphing.png",
+    "view_skin":"https://lh3.googleusercontent.com/84iB7z9BJDrhDYCgLnZT-g6bxccFTg2gi9twN1qMps5yZR0MfXP-Lvl08l3RmUF24A4Of-YkWuXUjcyNqw2v"
+  },
+  {
+    "id":2,
+    "nama_skin":"Steve Morphing Into Creeper",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/steve-morphing.png",
+    "view_skin":"https://lh3.googleusercontent.com/as4IV_rSyHspHQLN5arGgAlM4lXdbMK5yxlFC0Zvole93aYZOr5dci1bJ-OmRRE6yY2h5nMWm5hIRWUsh6WQlg"
+  },
+  {
+    "id":3,
+    "nama_skin":"Autobot322",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/autobot322.png",
+    "view_skin":"https://lh3.googleusercontent.com/R3FPpolE2TsSEXkN3zLlNOafQ1hymAylvFWSubGgas7pIYCZAbFfxN7unodpO5Ra0TCnSfbOKLf-bUiis56UAg"
+  },
+  {
+    "id":4,
+    "nama_skin":"Mighty Morphing",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/mighty-morphing.png",
+    "view_skin":"https://lh3.googleusercontent.com/-xU5TlmRf6w5TLU-9MhT3P77nHy0XHHbqR05ELECNaBp5GuUlIug8AtivVhGN6Lby5jA37j5n2q-DaK20y0VCA"
+  },
+  {
+    "id":5,
+    "nama_skin":"morphing arty",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/morphing-arty.png",
+    "view_skin":"https://lh3.googleusercontent.com/qBU285Yq_EvrSc8MMoFAgID6of5UFY_52Sy9tdIc8fdrYJxtZl8LwJynxBgjnoF4lOfx7qr3IeKdafQmuG5kzLI"
+  },
+  {
+    "id":6,
+    "nama_skin":"Orange Mighty Morphing",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/orange-mighty-morphing.png",
+    "view_skin":"https://lh3.googleusercontent.com/DQh3NFsZn_x-VNX3HQ85CgEf06p8JJyVeRbhhni2ZbwAtQqlSaqfDAy5WeExZJ6K5HylS7gbr93MBC-JPgyGMg"
+  },
+  {
+    "id":7,
+    "nama_skin":"Red Armored Mighty",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/red-armored-mighty.png",
+    "view_skin":"https://lh3.googleusercontent.com/jxC1YPQRWjcpocT1EKkZG9eKu9PoaPB4ZXuTiN-PQGA5P23iiBIjs5C1Th51srCjV8ZTqLtN7wBX8FAh7KuScxI"
+  },
+  {
+    "id":8,
+    "nama_skin":"Spyro Morphing",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/spyro-morphing.png",
+    "view_skin":"https://lh3.googleusercontent.com/knYbKHCT5QYd73FqhywqB_7o11qkftjvQNAl6tHvOJUyu_RFzw8CNNvw1WmlfmOy-WW0wYTNES82PLO1mICK7A"
+  },
+  {
+    "id":9,
+    "nama_skin":"Morphing Police",
+    "skin_url":"https://ia601507.us.archive.org/12/items/morphing-golem/morphing/morphing-police.png",
+    "view_skin":"https://lh3.googleusercontent.com/sJw9eE4DHcq2KjHN3uMXyWdco82jf-xLH4janAQ6SjZ6BzZYnm6OQVB_5rJxrlP_fF9veqh8JcDuRMezWJaHYFY"
+  },
+  {
+    "id":10,
+    "nama_skin":"Morphing Duck",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/morphing-duck.png",
+    "view_skin":"https://lh3.googleusercontent.com/3__ny8PtXcojKr1RjKv1sPq4VplDNS_eVMHtJBPU-cgWfSUnftK8_bBz_zqyXcr2bNKHUKDstLyJTljwnZ3mmQ"
+  },
+  {
+    "id":11,
+    "nama_skin":"Ender Morphing",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/ender-morphing.png",
+    "view_skin":"https://lh3.googleusercontent.com/TdvClttlvs3TdgpQauNDl36CBONTdWLubKf-9T-hp6JFTG3AIf0dIS2BN0pigd-c-V9BPVZbop6LQlB-PIQ7wQ"
+  },
+  {
+    "id":12,
+    "nama_skin":"Morphing Monster",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/morphing-monster.png",
+    "view_skin":"https://lh3.googleusercontent.com/pTucR5nTFYXrgiezM1GRpWocDi0VetJHLrdtBTuA9yV4s3nujrgprSVhAzwW0V_RgVY2iM5K0OoWAtDYx6GaZw"
+  },
+  {
+    "id":13,
+    "nama_skin":"Morphing Golem",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/morphing-golem.png",
+    "view_skin":"https://lh3.googleusercontent.com/TdPkqzACWLGt7pDK11tnF2mQdB9KYe0Z6LDV6djptOMwe9T4Gxhcb2Vkc_pjt8ASukJphtsGLJzhDVc0fpZ0Gg"
+  },
+  {
+    "id":14,
+    "nama_skin":"Black Mighty Morphing",
+    "skin_url":"https://ia801507.us.archive.org/12/items/morphing-golem/morphing/black-mighty.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZE4jQr3gdoF3tN5Z9vtkPwQXZ50LT8aiyXtEKFdTiWpszGNOv3ClqTWSSKloZbN05AAsoL3RU_0cQwrIIa1gT6E"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
