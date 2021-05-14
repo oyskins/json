@@ -1,0 +1,326 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Hacker Super Skin",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-super-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/k88UwdYK_HJys9oPhhlQo3DeHiQvvqDUhW1cKxYdjaD-AoVRfhY6IzmzsRZKqggSSTUypWjI_6HkvcPhL3mS4Q"
+  },
+  {
+    "id":2,
+    "nama_skin":"Rainbow Hacker 356",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/rainbow-hacker-356.png",
+    "view_skin":"https://lh3.googleusercontent.com/LppmHOxVYtpFHi9jK8CpmIJQ9cGg7WN0qok-Dlh0I6thfLo1o7eg6kIEI03IjtklvdFyMF2skn6czZ__X_ZekQ"
+  },
+  {
+    "id":3,
+    "nama_skin":"Hacker Sword",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-sword.png",
+    "view_skin":"https://lh3.googleusercontent.com/WLjx7qq2rOQZhIePD6lWEzK1gNwR4DU3EuNZxoPw2xw_hp8kE7WaQqyCr8BMLSxyDadjSaGu_X6Aqbb7cYCo"
+  },
+  {
+    "id":4,
+    "nama_skin":"Hielo hacker",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/hielo-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/OxXqF21sODZGojTZbRmir-9SWFM0l2J3V3E1ONAV3p5h2XX3PAsa2AN9gKuJA54wxyqzhm3_gBOguteENMZQx6M"
+  },
+  {
+    "id":5,
+    "nama_skin":"Hacker Girl",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/cAlVZKB53zdgWdHCF2rKb33hTbyV2iAnwap_2CmLuR_uPrNEWCjYU0dwJOeGgx94IuDG796NEJ_UDsXdUjgV"
+  },
+  {
+    "id":6,
+    "nama_skin":"Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/is-r6E6587FJS-N8TmIpdqbwDAa4FsQGS8-sVNd0jZn7Zlbr8Ll3nKhPQGJsJ9EXMY92x0dFeSdX4FantR1ioQ"
+  },
+  {
+    "id":7,
+    "nama_skin":"noob vs Pro Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/noob-pro-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/d5ZBxSpb9mTrhBEFJcm9SsQjPnDAWV_ICZFWXOuUEEQBhP0Z35E2ZOSD2B9m3Zw-FXB3Z6L1M6BiyBkYpuAH1w"
+  },
+  {
+    "id":8,
+    "nama_skin":"Thiaguinho Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/thiaguinho-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/vIbaNQIC3XRyZctqnrQepsBzsUQ3GnSU3eify_CoRyJREJ3zNXmsgAyXy1c66obFRA14c5wbMILsKAF_7mduKg"
+  },
+  {
+    "id":9,
+    "nama_skin":"Hacker By Mc Jams",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-by-mc-jams.png",
+    "view_skin":"https://lh3.googleusercontent.com/CDZyClBn3DjGDz1B74r1ufEIAi5S7Cqk8fz4wKup9mLrBiwzwrfX6MC2VwuOMmGqRf8u1FoSSBV-t7ehdsf0-Q"
+  },
+  {
+    "id":10,
+    "nama_skin":"Hacker Indonesia",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-indonesia.png",
+    "view_skin":"https://lh3.googleusercontent.com/k_ezY8QTLEzw1IxB-YrAhaefbOjW2s1RbU7C6pMIrn_4EPTaLP8LejxfQAp5T0Qf6yu7X1bc3soyZB14PjF-hQ"
+  },
+  {
+    "id":11,
+    "nama_skin":"Red Hacker Sword",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/red-hacker-sword.png",
+    "view_skin":"https://lh3.googleusercontent.com/e7oFOsCXbi-Bv3HGCQAs26lEstNplUv4O7-bcY_QdAfyWPUa7SL5nx_x2EjBpxPMmDkSsYRUoUB0vLS_UmS5Yg"
+  },
+  {
+    "id":12,
+    "nama_skin":"Rainbow God Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/rainbow-god-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/bRKPHbsf-CK1c_p4boAVt9OtJ-JPTULpWEwWgj0OWx0xloebpOrU8tarlpdw-KYSPCstgU9buLx5ZGkiGeVf"
+  },
+  {
+    "id":13,
+    "nama_skin":"Hacker Hunter Pro",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-hunter-pro.png",
+    "view_skin":"https://lh3.googleusercontent.com/GogXOwREdE7PEnovEQVS_Ii6adCDW7yVyO8JBbGmDcGNMYZYeKEQfeEEpeBkTPGAflmmludr6O3KaF8pPp1faA"
+  },
+  {
+    "id":14,
+    "nama_skin":"Hacker 1",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-1.png",
+    "view_skin":"https://lh3.googleusercontent.com/OKE8w5Ti7QZDO3Wp4zntlhxUZ7319-8dicBWc2eJYOkFsc4XraxOpqd88ohrpnppML0tOhvwNLYnIYMmyLYyvA"
+  },
+  {
+    "id":15,
+    "nama_skin":"op Legendary Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/op-legendary-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/9GXqgXKquMIv0RBpOOv5kvsUB0A8dXvLJ2VTBsM1LrbNKgWIW3f7tF-w9nFNN4P5gvf_kyllx_ponOYfTp87Gw"
+  },
+  {	
+	 "id":16,
+    "nama_skin":"Hacker 2",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/s_ZqxaiggVR6Z8Y-9vmifpzlM1Z5vAaD8rbV6Kyg3J4z5u2Dzczn2Ix2Alo6ro06vbcA1dmpDS6qLPDAmMFamzQ"
+  },
+  {
+    "id":17,
+    "nama_skin":"Trolerotutos Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/trolerotutos-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/RLRmLmGZxyIuOMW9Mk2lntcnLUwEQz5N7CEld3R827vXOajlLZYkx8ZH76zF5SoWJZxatXA5eBlWsHd_ReDKu0E"
+  },
+  {
+    "id":18,
+    "nama_skin":"Sr.Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/Sr-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/SY6QVI1rtCM7GJjynZwRA5P_05yQMND7dSRabEas4zjcuc-bQ3Q-R1E8-_lO6tuP6brfBaRCtf8BHKmDffhZ"
+  },
+  {
+    "id":19,
+    "nama_skin":"Hacker White",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-white.png",
+    "view_skin":"https://lh3.googleusercontent.com/0pCxE1s5mAzCzmVJTDl650ILlt7lnH4yxASmcfo9UVYNDz1xn1m3jtTXselczFlvL5oPkOLMo4Lh1GgmY3HrpA"
+  },
+  {
+    "id":20,
+    "nama_skin":"Max Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/max-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/zHnG_j5lIDzaURa9OXAniQbIKdmXsC86mfjOULr3QqSwv8GfNvgv-GUAzOzGFYqZMeaUU8aL-0YcwN-ck8XVKYM"
+  },
+  {
+    "id":21,
+    "nama_skin":"Hacker ter Girl Wolf",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-ter-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/kIcVm8KDeqstsnrKrCBXzzFJ4CIkkLcUvxiBbZQEiu9RS7JwSUKoizXJZLDvHqeHZiqpVbBcIGqtm0sXfx9H688"
+  },
+  {
+    "id":22,
+    "nama_skin":"Green Cyber Hacker",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/green-cyber-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/Kr7ccoP2uQATWc1G3Ch5llBWkxZPEDG2H7ALvazeYk1eQVC3H-p0hf0C13hOcpjq1D3oosfG-47R4trdEuuVvhQ"
+  },
+  {
+    "id":23,
+    "nama_skin":"Hacker Halo 5",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-halo-5.png",
+    "view_skin":"https://lh3.googleusercontent.com/qrRkE_2YxTvZ9VwgV3sQJXc2ZPzS_E70UIZz09EbqHnawRhOBJA_oXVK-kO73D4kNRZm0bhimtRmFOFtr6lfQA"
+  },
+  {
+    "id":24,
+    "nama_skin":"Error Hacker Skin",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/error-hacker-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/apKDJsLWSvlX8A-wamUgOYclRKZ5GCZJ5LSwjL_MHaajj_s-kdtvdtUABGVsRS8plUlb-F4QUyzJxJPcwWbX4sk"
+  },
+  {
+    "id":25,
+    "nama_skin":"Dragon Hacker Hack's Powerd",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/dragon-hacker-hack.png",
+    "view_skin":"https://lh3.googleusercontent.com/Q3ZkcNFYwbmdJRzzlU3ncTalyonRJXMONklfM1SzdlcEVXobL2EfaplTmpeS8vrjiJOrYr9P6T-eq4se-Uz_"
+  },
+  {
+    "id":26,
+    "nama_skin":"Capa Super Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/capa-super-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/i0QHs--d0TL1wcuf3YWVtmN3VSJ15TPs1J8A4lCaDAzDkUqrtwGH4g0ygX8RrU-LKMn532SxuRkNMSUggxWd6Q"
+  },
+  {
+    "id":27,
+    "nama_skin":"Master Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/master-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/xG-6WbjBzD_QFl5juZCDihNMzB736N01XOC0OpF86EkeHKHncWCDKMijWY8vbR3CB0pYq6D7sg2bCq2DMyZmGA"
+  },
+  {
+    "id":28,
+    "nama_skin":"Diamond Freedy Hacker",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/diamond-freedy-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/I23DY0Wj43EAYDnM7zEYBrXlEgbkBWBF9AjLH8x7FFQ-ZrRQzLy4N_51-jyVU4RNxqhvT8tIjhhynAhbzMNtQ48"
+  },
+  {
+    "id":29,
+    "nama_skin":"mikecraft Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/mikecraft-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZvZQ1K-vqiKcw-jmbrzh0Pw15Jq26uDCKYZmkSRQDw0yejerpvdGbCcypI7zph0q2b1IdAX0KJO281IlBHSLaQ"
+  },
+  {
+    "id":30,
+    "nama_skin":"Hacker Glitched",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-glitched.png",
+    "view_skin":"https://lh3.googleusercontent.com/1A6EqyHUQeAZLEhs-67KCL46NAVF_xK6QUgu36XGp4FyxeAWdZQ2tRVbJUp3rxvS4SKCVPfGem09FeO28mnxdQ"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
