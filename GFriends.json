@@ -1,0 +1,266 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Aphmau Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/aphmau-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/h1jYGCoGI1vl2aGYj47qYIE2cAlXCuMG7e91Ys8Z2yofzOdljATED-lg_QxI6oWwDjnnsPtllvNtZ-9PBgaB9w"
+    },
+    {
+      "id":2,
+      "nama_skin":"Heat Alien Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/heat-alien-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/JboPTucxJIOEbq90GGkEuoAhJkBgOwqbMshRqlvYOofkNTifxzZIU7ExR6SWza-Swnw0HM8j6pwJmUMcqzfiMg"
+    },
+    {
+      "id":3,
+      "nama_skin":"Pikachu Girl",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/pikachu-girl.png",
+      "view_skin":"https://lh3.googleusercontent.com/G_ZqedXapO234e9MXHgcAbxPawX2AIU2e_uZFRzHFH90JFHaGavWBQa8uGMw2LsSM8_2wvSfJd9h3OQlm8tXDw"
+    },
+    {
+      "id":4,
+      "nama_skin":"Unspeakable Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/pikachu-girl.png",
+      "view_skin":"https://lh3.googleusercontent.com/gKkmE3hdFF2W98zxMKiD8SYXBEpxbNCTxuQXSNtapp5s7XEIuiJKgoAAxb2smaBWUv_yOiyaLui1lyOOBasc"
+    },
+    {
+      "id":5,
+      "nama_skin":"Girlfriend Katie",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/unnamedgirlfriend-katie.png",
+      "view_skin":"https://lh3.googleusercontent.com/PSij_2v_s6FUvsNbrBGan2eFMam1rqT2fkHZaiKstx0LBcxbBX9CrLcOHRXdjI409bPtAg5Y864WnzPxsS0eFQ"
+    },
+    {
+      "id":6,
+      "nama_skin":"Herobrine Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/herobrine-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/uqr9TBu1yesjMgeSCQaNa9OYeb4FimjEZRAzdg2rwlGjj0_jpfB-tRiGBNtwWgJyVyWK47q50EoFaHIz2x1CtA"
+    },
+    {
+      "id":7,
+      "nama_skin":"Bad Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/bad-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/lYmUECrU5dezyC9vTc6U6h3EaNeHel-XSIm110MS2RgEzBr3HecFTTHCIhmA8vGGDmc7fDMQhGteAN0c6EQqsQ"
+    },
+    {
+      "id":8,
+      "nama_skin":"Girlfriend Dark Cloak",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/girlfriend-dark-cloak.png",
+      "view_skin":"https://lh3.googleusercontent.com/WY6Cd8twaAMk5X6iUedM0LIFHfY6fwrLyH8onwgomP3qsuABYk2EF_tARWfJpSuC-PQpnZULX65MQUAkGE4IaA"
+    },
+    {
+      "id":9,
+      "nama_skin":"Bunns Girlfriend",
+      "skin_url":"https://ia601505.us.archive.org/19/items/girlfriend_202010/girlfriend/bunns-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/VFzATq-hwCzfQHL7s7KxsRe-26ZqSDqId4Hy1ixaxvpQRjGOAMKj40B_ZvIjSpB4saNjqdzpZR_sAW8TAq8r"
+    },
+    {
+      "id":10,
+      "nama_skin":"Eve Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/eve-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/jiuHxyTNtuiEb0sstCB9EsTP7JTpGzvhh164URMr8yuca_0OlikPwlkBbVQGo4H_5unqaoBZtQn1RqDSYfrJvw"
+    },
+    {
+      "id":11,
+      "nama_skin":"Mizuhara Girlfriend",
+      "skin_url":"https://ia601505.us.archive.org/19/items/girlfriend_202010/girlfriend/mizuhara-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/Iz7GFfR2vBd74dFSrtTW1HfxymiL4CV6er7vmxamAAuU0600zSRT1tC2FPRmoqhJyKUik2vYQ7u0jqezozAT1wg"
+    },
+    {
+      "id":12,
+      "nama_skin":"Cute Wolfie Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/cute-wolfie-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/YNWiClpTCJccEpeYGwHQt14TjSGl5bHDvkmG-VLHzxpioGlMehqEgYNuZm-Rec3iffABV6ZL8ZoDZ7tvYV0VjQ"
+    },
+    {
+      "id":13,
+      "nama_skin":"Lucifer Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/lucifer-%20girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/RYhbJWZRqn7kAJ6dBd-NWvJoFFpk6hMQmot54E2JdDwbA8natH5wh8PKYtccz0IPYgnyAE4yIJaLeCKikfI-6g"
+    },
+    {
+      "id":14,
+      "nama_skin":"Dragon Girlfreind",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/dragon-girlfreind.png",
+      "view_skin":"https://lh3.googleusercontent.com/3SWjuEdOrjX6sbbJKb4Wrm0oG6AVcDK_7FJgNwRbtxvwGU6uizGD9izaKvIPdT_41kCvlTqzZtmMWujO-wn20dQ"
+    },
+    {
+      "id":15,
+      "nama_skin":"Supreme Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/supreme-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/5NBhkBP9xAFC2O1LLUNXxbijUAdIKifsJ5GKtRTmKwzhDTiH60DOiusUhwD1oAA_BiBL0IeT69WW03xIJ4T8"
+    },
+    {
+      "id":16,
+      "nama_skin":"Oin Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/oin-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/p_v6WGcDQXno7NQ3x3r_1iEARIq5C8OdNUPmhommFFsJ6DzPj5B-t-yB4MtJ0CakOGnB7qWp4feW4HC5NNUKpA"
+    },
+    {
+      "id":17,
+      "nama_skin":"Miami Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/miami-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/zFl4YMeAoeLVuoRY9RIU1pg51mbsmWwsTumgD8ZY7dOm8nonpCIyCz5huMXZkELCUSTZ_lIKWzcSKo8lBkF_"
+    },
+    {
+      "id":18,
+      "nama_skin":"Mamakivins Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/mamakivins-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/aFqi5jMz5h356wMiCQ1u1tNvFdheNYUC6aQ79I5nKOlXq2x8C6MmZBywUSO3hi64D-2ajgdaqnp4Ue8MZ-kY"
+    },
+    {
+      "id":19,
+      "nama_skin":"Montes Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/montes-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/uPOqJFu1VCOd9sgKtcU57OBKHBHi3QxlyXBrE1eIowTTqiSyQ97QsYmaelCxnQEwJTpJl04PPMHbuVwaEjI0-Eo"
+    },
+    {
+      "id":20,
+      "nama_skin":"Awin Girlfriend",
+      "skin_url":"https://ia801505.us.archive.org/19/items/girlfriend_202010/girlfriend/awin-girlfriend.png",
+      "view_skin":"https://lh3.googleusercontent.com/-rJcTikSdv5Cm8zMzOBrzbGdUT9hpOtyMpqPbeXi0j-60yQxlkK-zLVCwm1Up7G4JigTUUlT49cDOd_sB83S"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
