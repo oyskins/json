@@ -1,0 +1,326 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Sonic Movie",
+    "skin_url":"https://ia601706.us.archive.org/19/items/sonic_202010/sonic/sonic_movie.png",
+    "view_skin":"https://lh3.googleusercontent.com/Es4wDztg-JqZJP5KY3HyzMB3-0VbWhTiqJkkzlDln5jCEpyW6hP-7-EEeAN6fl3_Fi14MgeCdYhm79QVti5ptsk"
+  },
+  {
+    "id":2,
+    "nama_skin":"Sonic The Hedgehog",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_the_hedgehog.png",
+    "view_skin":"https://lh3.googleusercontent.com/3zzTd_HTDq0lKRwplLntTteKQ5rbQUmzbJ11hcTCSkYPsRqsVZRHvQZnmSLxmw49SOSlI2ef-PznsaskgJ1M"
+  },
+  {
+    "id":3,
+    "nama_skin":"Sonic Dashing",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_dashing.png",
+    "view_skin":"https://lh3.googleusercontent.com/ve4M07YS_MqStbl9QcEAE6oCOk5UCCC7U1ABfstpHKZZ_-Iyvf8rPAplynMrv5foQfw5ZoZX85dMo9hW-gQIvQ"
+  },
+  {
+    "id":4,
+    "nama_skin":"Sonic the Hedgehog Skin",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_the_hedgehog_skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/pP23-8Gaplt5uuxrU2R1RoMlbvRmk2Vdi0rjjaMxZtNEjGFy8_mIPGn78-911SHRHvs6voX_JExBnNHw1pieRe8"
+  },
+  {
+    "id":5,
+    "nama_skin":"Super Sonic.Skin",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/super_sonic_skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/Z5upru5p6tcRLj1tHhh3Rqj2ljfwZTQLb36APCaUl9sB4euxbgAjcjBUe3zrbgi7cjmvUof-GWuTSjInVPUP"
+  },
+  {
+    "id":6,
+    "nama_skin":"Sonic Exe V1",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_exe_v1.png",
+    "view_skin":"https://lh3.googleusercontent.com/B2PAlShm7HnLsnWA1Iok6eq1PxoCYz5AEklcHyiwElHnF3DhyQ_6_OpWRFZcYTw2p44n_-HTwKR7pZgKx6SloQ"
+  },
+  {
+    "id":7,
+    "nama_skin":"SONIC MANIA CLASSIC TAILS",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_mania_classic_tails.png",
+    "view_skin":"https://lh3.googleusercontent.com/jybiIooxCtwHJ9loMU1RJDVfrpgsfUpKP34k5x-GoHIu1s57JGqipIEt1FSObSNrvRyxcPryiXIHEhnAe90HJg"
+  },
+  {
+    "id":8,
+    "nama_skin":"Shadow The Hedgehog",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/shadow_the_hedgehog_sonic_x.png",
+    "view_skin":"https://lh3.googleusercontent.com/NjUVfDD3uHONurqyBwduiqqSpuVj3bN-L0izZN-mnUrqu08CHHxt8_hLeGTA1aSv0it8sluMLQT9Ejn7JUoP"
+  },
+  {
+    "id":9,
+    "nama_skin":"Hyper Sonic Or Rainbow Sonic",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/hyper_sonic_or_rainbow_sonic.png",
+    "view_skin":"https://lh3.googleusercontent.com/RQlfE3Gd91d6XT3JIcdYQsOhFNIvOksmzHA4p9XSBuXHUP26buxfYjJgDPMAy8HX2zcc9cl5Tn8EwaHswmFCOw"
+  },
+  {
+    "id":10,
+    "nama_skin":"Sonic Meme",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_meme.png",
+    "view_skin":"https://lh3.googleusercontent.com/C8Y7EpcY1A0Lvxty10LvbDXUjc-MLRdoGJzV1yL58WlTwvBKFlmplDKaNVBife9JUM-jbAST0HgPXD_2fFbf"
+  },
+  {
+    "id":11,
+    "nama_skin":"Sonic The Movie Batlle",
+    "skin_url":"https://ia601706.us.archive.org/19/items/sonic_202010/sonic/sonic_the_movie_batlle.png",
+    "view_skin":"https://lh3.googleusercontent.com/9yY_DmOU6MBGXEtxuGIml7Fd00QmcL0YkNeRLLx9x1pT2C-W11NhFsXuDjXcEw6HF6kIG99BignB99z0wLS6yQ"
+  },
+  {
+    "id":12,
+    "nama_skin":"Super Sonic Exe",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/super_sonic_exe.png",
+    "view_skin":"https://lh3.googleusercontent.com/nNZ7qDqe7JxyZTB19_8nq8x1WHlpR8zFcUkaMqsSxSks289NcEL4lUQPPNlhNvt7DTChLesPSkq7oURJT2eh"
+  },
+  {
+    "id":13,
+    "nama_skin":"Sonic Boom",
+    "skin_url":"https://archive.org/download/sonic_202010/sonic/sonic_boom.png",
+    "view_skin":"https://lh3.googleusercontent.com/hgnOR2diPC0J4LN1v6Gvn8etGV2-Z6kKtdH92a_WPDWcngBqnVquSQW6IqgNbjZhs6jj1dB5OiI4YtUAMKe3Rps"
+  },
+  {
+    "id":14,
+    "nama_skin":"Sonic.Exe Skin",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_exe_Skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/tiBd5ZKTq7UTydn5rzTRc_w0C4Ct3NiGYniwn-qXQjB7qB9chpRIc2VpmjNwTNJce5Iw8dGjZJfN0pSOA6sF"
+  },
+  {
+    "id":15,
+    "nama_skin":"Sonic Boom Skin",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_boom_skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/nlmaXRU-R3PxYuTeU-hpolFJPv3TOCaRxwNEwWIZUwr7MDDkSbiFOvjsj7utp1FNTpQk5A5Oz9hjAhkshWLQRw"
+  },
+  {
+    "id":16,
+    "nama_skin":"SONIC LA PELICULA",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_la_pelicula.png",
+    "view_skin":"https://lh3.googleusercontent.com/QfUBjF0U1QVpwKRbNYdBG-tCLs3_7Nk9g_ln6-_OTedy1qlwn26eJOLYojn5i9dvz1L0gjCFeiGwt66u3Ncc"
+  },
+  {
+    "id":17,
+    "nama_skin":"Dark Sonic The Hedgehog",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/dark_sonic_the_hedgehog.png",
+    "view_skin":"https://lh3.googleusercontent.com/06JWpP0S2MvAo3YW8GSR6RLABn_FIgEv4zs7wuga2uhTgrxZvzA9julNBK3YDpMHvF9Zk7TOJ4PlgMHbK-4m"
+  },
+  {
+    "id":18,
+    "nama_skin":"Sonic Exe",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_exe.png",
+    "view_skin":"https://lh3.googleusercontent.com/J2-BUUAs6OTvwxKlAP8SBD6ZB4TK4hiJhF0-6TGgkAs4YMdOjxbFUmH3_SzGR3FtE3i5rC7ChovxTC004V1RZA"
+  },
+  {
+    "id":19,
+    "nama_skin":"Super Smash Bros Ultimate",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_super_smash_bros_ultimate.png",
+    "view_skin":"https://lh3.googleusercontent.com/_os8GGa4H4c1exttaqyf5E7zEOiAnC4wztnn3NEjcF3KqUcyut1m6EVeqOqk96PCTvlx2eUNuQkcONPrJDXgNg"
+  },
+  {
+    "id":20,
+    "nama_skin":"Sonic To Get Posted",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_to_get_posted.png",
+    "view_skin":"https://lh3.googleusercontent.com/GUL8qmqkUL8FBC1I4aiGdjJKrm7qSiub6FJP3U9S5dZ-xgnDog1m4GvbobE_xLI5PWywkx2f87n6sAW0-ve6T5U"
+  },
+  {
+    "id":21,
+    "nama_skin":"Sonic Minecraft Skin",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_minecraft_skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/kMxpe4N4w6NTzMUk4pbB2hxO4OUq0X8Jw0NXmaSyWjIcJ0gWN9BNFQPMPTrNeAZ5cKMobTgoMY_SFrveayNa0Q"
+  },
+  {
+    "id":22,
+    "nama_skin":"Metal Sonic Program",
+    "skin_url":"https://ia601706.us.archive.org/19/items/sonic_202010/sonic/metal_sonic_program.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZfhMgeWG1HDWTe4pRlYXyQsKRKqca5ZU-3gyAAPffL49oZBUX1d4nbJ0kPgLnN3FGbenN-dTsAXAqWb1tbpwAg"
+  },
+  {
+    "id":23,
+    "nama_skin":"Amy Rose From Sonic X ",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/amy_rose_from_sonic_x.png",
+    "view_skin":"https://lh3.googleusercontent.com/Nksckua_5lHIc8S20A2bG1ZG1EGrDNbquF-8jH1RMfodjyR5sNYrCQ_quvSFsFkSTN1_HXnSjx9LYMKFZ_DK1g"
+  },
+  {
+    "id":24,
+    "nama_skin":"Sonic Exe Survival",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/amy_rose_from_sonic_x.png",
+    "view_skin":"https://lh3.googleusercontent.com/725FtVPiPXqsIXYdrbxjCC47gmDovTPznaZGEu2RclOH5tFb0I-J25HYJ9HOT7u-0uLRRdCBKGWbw7CjsDrLIA"
+  },
+  {
+    "id":25,
+    "nama_skin":"Super Sonic Skin 2",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/super_sonic_skin%202.png",
+    "view_skin":"https://lh3.googleusercontent.com/Es8NcDikwJWuzYQw66-JGmp34QJN1MmBVllimeyy4lVzx-Eppl9ysRdkrjb6IkdwCjOL9ziN9Zy_lFPwMg298w"
+  },
+  {
+    "id":26,
+    "nama_skin":"hyper sonic.exe",
+    "skin_url":"https://ia601706.us.archive.org/19/items/sonic_202010/sonic/hyper_sonic_exe.png",
+    "view_skin":"https://lh3.googleusercontent.com/n35lh4JVJ8mth25WVrZRBayfB5HBW5ZMNeeiaQ7RpoGOv3mYOF2DcDOcM96NK1Yw1kc6YdQZPllD2DkzKJ9QNw"
+  },
+  {
+    "id":27,
+    "nama_skin":"Werehog Sonic Skin",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/werehog_sonic_skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/kYEdp7s0wrhVVbJjHkquxtRqkOyoTLTSYHWP_S4G_39O-7p7R-wxXa-PHOGXf6oeVy_Yq_8zonN6WYXYjI92_w"
+  },
+  {
+    "id":28,
+    "nama_skin":"Sonic Human",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_human.png",
+    "view_skin":"https://lh3.googleusercontent.com/2L55lZFpeqDBt_wz40Iuo-0a4X5Yw3GNPH6bHwRpjfwQoMTG-igkSvM0WmwtX-FrbDg-9V6pBiEMETA3IvswHQ"
+  },
+  {
+    "id":29,
+    "nama_skin":"Sonic Ultra Instinto Perfecto",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/sonic_ultra_instinto_perfecto.png",
+    "view_skin":"https://lh3.googleusercontent.com/cql1DwLkn0NUfgu5Q-ldW6tuHc36ZyTzRJoDDP1-KwAENt8TuA-OSkt6SYfKbNg4w6BskjDU6VV43dV2QRfUwbs"
+  },
+  {
+    "id":30,
+    "nama_skin":"Metal Sonic Pro",
+    "skin_url":"https://ia801706.us.archive.org/19/items/sonic_202010/sonic/metal_sonic_pro.png",
+    "view_skin":"https://lh3.googleusercontent.com/1ZFAbOf7qf2y7QKTrsbTiOuL3vByyNyHU5CEyWJN2OLjSAnswTAeXc4ueyiZBsgQRtz567Vc_-d_zd94U9o"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
