@@ -1,0 +1,237 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/1_Naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/jkLpIIocm1vmHMPgBXuGi8eMyxQ9SBxuAzi5QrQcvG7OgbrpSCzYY8jnakTqckEXQqcAc_jMypW3gNxdcpaL1w"
+    },
+    {
+      "id":2,
+      "nama_skin":"Kakashi Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/2_kakashi_Naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/roJnnjBUElRhDcZVraY_qnwcrtu3sib9xeUUTnX1MjvTQswhl8B2knFPyEbRcuBEU8-M2TM5fc9-r28OfRcOzw"
+    },
+    {
+      "id":3,
+      "nama_skin":"Naruto Rikudou Sennin",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/3_Naruto_Rikudou_Sennin.png",
+      "view_skin":"https://lh3.googleusercontent.com/TvjYnhg6LvhqWNWYvN4hckNB1fZd_-7BiS6NvaZ4boKs02-YBi1z38k3-OdBMhrijgOEQZU4b7HaZTDj9g7J"
+    },
+    {
+      "id":4,
+      "nama_skin":"Boruto e Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/4_boruto_e_naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/_8b0hy5x103dPP49UB67UFL1KzY8a2nLGf8grtQa4aKCQEL5AOJg0E0HH1dRNqTcrJo1OlrdSsHQxL0FAB34uQ"
+    },
+    {
+      "id":5,
+      "nama_skin":"Naruto Uzumaki",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/5_Naruto_Uzumaki.png",
+      "view_skin":"https://lh3.googleusercontent.com/IeAu8pM7rqXcJodK2f8ixgSbdGT0di1EYsYdCU_jk_Qx4j61E4f9yWgAB9qxwD39JN7qulSNBCR0L2ROApgW8g"
+    },
+    {
+      "id":6,
+      "nama_skin":"Naruto Saque",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/6_pack_de_skins_de_naruto_saque.png",
+      "view_skin":"https://lh3.googleusercontent.com/0NJOXwaEKfR5ePtDkrBuLb0E0km2jVtNimsAZ99sdl-84Ei6RgIExzS7pXGabQNzL77dof79KugYaoCrVCOq"
+    },
+    {
+      "id":7,
+      "nama_skin":"Melhor Skin",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/7_melhor_skin_de_todos_os_tempos_q_eu_ja_fiz_de_naruto_pq_a_primeira.png",
+      "view_skin":"https://lh3.googleusercontent.com/2I3jN8qWYFfBUfMgw-4bvaS5EUypvNOWOTItcSKQsLxdecCyn4ehrz6CxgUOMCcefKwOHHzDsbzdQzSuiFaqGw"
+    },
+    {
+      "id":8,
+      "nama_skin":"Naruto Hokage",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/8_naruto_hokage.png",
+      "view_skin":"https://lh3.googleusercontent.com/BfXFtxLUxe3-HqEzECXOrQN8rM22rPQvCz_-VW-x4OPS36umqUL2fhzIOsA1a7gTLlAQqA27my94ppK2VDnY"
+    },
+    {
+      "id":9,
+      "nama_skin":"Naruto Akatsuki",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/9_naruto_akatsuki.png",
+      "view_skin":"https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
+    },
+    
+    {
+      "id":10,
+      "nama_skin":"Naruto Modo Kurama",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/10_naruto_modo_kurama.png",
+      "view_skin":"https://lh3.googleusercontent.com/IIOe0MaklKnWaMPLDIx3Be0bdWm9fBCZ4c9P9h0iHlDjTLBaYNBoY3YRTjGG3b-QMa7CMhBjy8fbFNnEQlhE"
+    },
+    {
+      "id":11,
+      "nama_skin":"Naruto Chakra do Kurama",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/11_Naruto_Chakra_do_Kurama.png",
+      "view_skin":"https://lh3.googleusercontent.com/5D1trLhIdojGHotDqprZrQMBeQepjOYdGn2mYsif7Hw66V1OKTU-_SO78GDrbHXYhBWqeftehTGCUKe-VqJKzw"
+    },
+    {
+      "id":12,
+      "nama_skin":"Kkin Tobi do Anime Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/12_skin_Tobi_do_anime_naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/Gui5Ha8qvL5gA__wF-0tPLnp-OOrngVD9BC0a9AyGWbbQ6IigEiDt-uEI9Guj84wVV3ZXAZ4mFf50f1v_P4xKA"
+    },
+    {
+      "id":13,
+      "nama_skin":"Pain-Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/13_Pain_Naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/RCV3zgvJAj11HJcVOe32J7_35Fuoa8tQlhf1FBXj6Zd0YPtIDO6s0SWwVXjpbpKFNcicEQw4Id8c-Vr-ZBv8"
+    },
+    {
+      "id":14,
+      "nama_skin":"Naruto Kyub",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/14_naruto_kyub.png",
+      "view_skin":"https://lh3.googleusercontent.com/_SKyGLzIngOmi5dcNZBQ6TzlFbGcLLMpoRt4AtUiOWbnEDI8xaWeK7IBrCGgAXjJideAqoia6uv8qMCmF3gamKI"
+    },
+    {
+      "id":15,
+      "nama_skin":"Naruto Com Kyuubi NV3",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/15_Naruto_com_Kyuubi_NV3.png",
+      "view_skin":"https://lh3.googleusercontent.com/H6pwhcC1wXiadBbHAWMCAuUR32O-UkjVDFtupT6QgMA3gAgknXgcJiclMg1VjWelTUcdf6f0K-jXihIRXNAiOA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
