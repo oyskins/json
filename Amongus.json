@@ -1,0 +1,222 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Among Us Red",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/1.amongus-red.png",
+      "view_skin":"https://lh3.googleusercontent.com/h1TfkH4z5VVkytB39cRrIjvM8Q9ywEN68-ectw352qXMceAqnF1bBkQbkREBkMHX3lxFkUjPq7VzM2OA7MuciQ"
+    },
+    {
+      "id":2,
+      "nama_skin":"Among Us Blue",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/2.amongus-blue.png",
+      "view_skin":"https://lh3.googleusercontent.com/Ig1wn0Gh1-0b_aHgbfZWjZG9BwpRPW0moikskQSLX5VcxsMkEcm0Au6hwR6smAjJjvSN-XL78GWqHGFvLqt-fSE"
+    },
+    {
+      "id":3,
+      "nama_skin":"Among Us Yellow",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/3.amongus-yellow.png",
+      "view_skin":"https://lh3.googleusercontent.com/d02VWGFnfXkFXnpRZGB5_kJoiaLaX7cOp7P_R4u0FiQx1eZDC3llfl-tj2VCkxgZfmrcqe38R5DAfPFkFIxLnQ"
+    },
+    {
+      "id":4,
+      "nama_skin":"Among Us Preto",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/4.amongus-preto.png",
+      "view_skin":"https://lh3.googleusercontent.com/s6MAn8-8v-91BsGZQOHD_2lPcFHVinqGxBWE950HXon2ejftbIZikRXi0b0NC10IabrY6LHXN5duyIUjX8NBhA"
+    },
+    {
+      "id":5,
+      "nama_skin":"Among US Green",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/5.amongus-green.png",
+      "view_skin":"https://lh3.googleusercontent.com/zydtHmv7UosqPg6oVGpyX7tLKEoMjV8gmP_Nbon39q2MFTf0Yw0rRiaZumMYUGM8olF7a6jSmy_VvCH_VJhSuLc"
+    },
+    {
+      "id":6,
+      "nama_skin":"Among Us Cyan",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/6.amongus-cyan.png",
+      "view_skin":"https://lh3.googleusercontent.com/-fXbz2Vj60dJjez70EB5E4ToLliIfMOJ5v69YGYr9_iFOCMu1Ds1VSrEjINydmgooWJWpjQpEfesBoNgBkpzwQ"
+    },
+    {
+      "id":7,
+      "nama_skin":"Among Us White",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/7.amongus-white.png",
+      "view_skin":"https://lh3.googleusercontent.com/yH8pXcvM_KkPLMbjjUV26B-wCVr6zrkkj6T7q7noN3CaMK4AaNRz4IdMoMQddJ73cknu33fTpwyvoE-bNiEiRQ"
+    },
+    {
+      "id":8,
+      "nama_skin":"Among Us Wulfenite",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/8.amongus-wulfenite.png",
+      "view_skin":"https://lh3.googleusercontent.com/r35NeFwzOF06IBZaOdo_-ZWRXJH5COoN56brmda0F0B7scvuOh5Q3ZJeds2k9K8NMfddWCJWUMM5tH9HRJs2Bw"
+    },
+    {
+      "id":9,
+      "nama_skin":"Among Us YEET",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/9.amongus-yeet.png",
+      "view_skin":"https://lh3.googleusercontent.com/FketSktDNhXgT1F4L5mR2NYjfU7N7qxBBKnE5CV6b-o-007T-Rw5u7_gRYgdrg98mMwHs92WQpG-9qgGITs4jA"
+    },
+    {
+      "id":10,
+      "nama_skin":"Among US Purple",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/10.amongus-purple.png",
+      "view_skin":"https://lh3.googleusercontent.com/uhZkXUlIO1m8_Dapi7N3hAt0TbXHRSzfiEMZwZuYmfssT3Cgg8XpftcXWLNhyzO5gog2Uxzfi20aRJlQQvII"
+    },
+    {
+      "id":11,
+      "nama_skin":"Among Us Elian",
+      "skin_url":"https://ia601406.us.archive.org/21/items/skin-among-us/Image%20among%20us/11.amongus-elian.png",
+      "view_skin":"https://lh3.googleusercontent.com/UGeD3oIODviXCXagAJr6l7QCZK4t7favBDFBkQGlObbbGru8OdpfAZBR-cmKfriwr2bu55zLkVVJs8_iGna1xL4"
+    },
+    {
+      "id":12,
+      "nama_skin":"Among Us Enby",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/12.amongus-enby.png",
+      "view_skin":"https://lh3.googleusercontent.com/1pX9FBDxBpJp1qtH4aJDRQpPdrhLcMKI_jPbrhP8sRQrB1bl-WxlULFDxVNzZfTyvGBF3HoN1gr7T5cqXPimIw"
+    },
+    {
+      "id":13,
+      "nama_skin":"Among Us Black Doctor",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/13.amongus-blackdoctor.png",
+      "view_skin":"https://lh3.googleusercontent.com/6LSXov-nVk0zlJ1OSHgRikjBvGdSj0dOzsvAu1o4yPIIRE-KOosSXmyC3d2tI6fUPFfbeJg8Hgzk8AO7JB_vHw"
+    },
+    {
+      "id":14,
+      "nama_skin":"Among Us Skin Neon",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/14.amongus-skinneon.png",
+      "view_skin":"https://lh3.googleusercontent.com/UK13yeC6SmTR4vuLULRGRm972jfomiUzXXQsfDBfP3R6qHFBXrGm_LZi9463soTs-7E_mU18luTqYK39hBAz8g"
+    },
+    {
+      "id":15,
+      "nama_skin":"Among Us Elemental Player",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/15.amongus-elementalplayer.png",
+      "view_skin":"https://lh3.googleusercontent.com/8dBaG__0K7NMJxiSVHTwG2BZfdYPTf55431OqP4MWUvQ9_vRt0xMIZxn3QbOY4trwjRczif6pUgcOD8mz8YM90A"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among1.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map1.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among2.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map2.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among3.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map3.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among4.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map4.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    }
+  ]
+}
