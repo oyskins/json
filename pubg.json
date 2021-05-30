@@ -1,0 +1,557 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":0,
+      "judul":"BoboiBoy",
+      "image":"https://play-lh.googleusercontent.com/qcXFDyaGo2ph8wkg0QiUwUEyKzaLVirWT8hqWcr8uEEfEolkz2r77wgEcQIIbwU7rwo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.BoboiboyModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Yandere",
+      "image":"https://play-lh.googleusercontent.com/2Nz6LwzL3u2Z5iev5EON8ahn_zHHL7uevH7gsL73EncDrJ9WukQAYUISwnq3Y349RmU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.YanderemodCraftPE"
+    },
+    {
+      "id":0,
+      "judul":"Free Fire",
+      "image":"https://play-lh.googleusercontent.com/mpHCSh2H_8Jw8JG2PqV1OkPExIScH4I5aiqEHuqvqbKr6j13lsYWfD3pEUum8s41apw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FFmodCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"Mermaid",
+      "image":"https://play-lh.googleusercontent.com/ymgKoTaijfM1d4kYmC3F0KH_ByRj4ZFj-C8wx2q2GZsrttVMt2_4uqmrL10IN6udtUo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.MermaidModCraftPE"
+    },
+    {
+      "id":0,
+      "judul":"Sadako",
+      "image":"https://play-lh.googleusercontent.com/a_DP5OdNHXuiEo0IkBXezxPKiqJfY67WrpgGikbfMWiZQAk6HTYVYVt0z3tMOgEyvw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.SadakoModCraftPE"
+    },
+    {
+      "id":0,
+      "judul":"Attack on Titan",
+      "image":"https://play-lh.googleusercontent.com/Q1cgtlfXpmwxdvhE4XFPo8mqFwbpi--_leACWnT7AUzAxrDh2yGIN_RpK9C4H_aw2iAy=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.AOTmodCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"Granny",
+      "image":"https://play-lh.googleusercontent.com/LWBuY27xR3RuOTHnLCgOBEtEIQ29iZcnoaA9XezoTqkQFo0KlO9cXxKq-5_9aIVnhQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GrannyModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Herobrine",
+      "image":"https://play-lh.googleusercontent.com/Xn9LTOARBSjiJuyLvPf2gN87-6Si0EfMkxUuSNcdifh5VAmzP4w6sHi8LoD1v807uxm-=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.HerobrineModCraft"
+    },
+    {
+      "id":0,
+      "judul":"MyHero Academia",
+      "image":"https://play-lh.googleusercontent.com/uv-6nNxaMwF_dPWjMrYvWTgWwRyFyGXqHngPkKbRiL40cEmT-xfX5dsaJn_bcTZ9DQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.myheroacademiaModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Ben 10",
+      "image":"https://play-lh.googleusercontent.com/o_81fpoljrc3IuAe1o162GvF84kfS_aSiI3nLs2v72N0u_qyan7JWl1FRreeMgqT9rs=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.ben10modcraft"
+    },
+    {
+      "id":0,
+      "judul":"Friday Night Funkin",
+      "image":"https://play-lh.googleusercontent.com/0vGuANaxY68Y20j1PWwPql6qosJjAMzr7Xsf8QaREXDsIaxspIY95ewLpq-Z-24DNWY=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FridayNFunkinMCPE"
+    },
+    {
+      "id":0,
+      "judul":"FallGuys",
+      "image":"https://play-lh.googleusercontent.com/pjRE4Q1bfxmFSCz4gvVEz3shq38O7Ohk6b3PXbMH4Go5ofzvJ80FgB2sBdZ6QrPkmYMh=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FallguysModCraft"
+    },
+	{
+      "id":0,
+      "judul":"GirlFriends",
+      "image":"https://play-lh.googleusercontent.com/HyF4QNd8JPHWfgtM7tvfjlvbe4k10em0to7Y-_25ebEZMXuQjtSXriHGL96xu9di0kY=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GirlfriendModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Golem",
+      "image":"https://play-lh.googleusercontent.com/zoyrWAZRVYkxIPzNZGEi6qr0Cqyl8K66BhbVA51wnx06Xg_EEG1aH5If83W04qkwAg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GolemModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Mr.Bean",
+      "image":"https://play-lh.googleusercontent.com/F6yILimExPJ0-V942hBa3F3-vkbscsgyLNv1nUD40fpudJ7IgVYG8QFOUIFGDTLZR8dX=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.MrBeanModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Morphing",
+      "image":"https://play-lh.googleusercontent.com/Wps_-FSufME0rP3-e1uQ5F3dv8TFzDA0eSRCCaVgqwE8vdD1RhWyFUYS1XjD20VP-Uo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.MorphingModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Hacker",
+      "image":"https://play-lh.googleusercontent.com/I_zz6TExGBvVK7IC56E-hxb2UTu2yErQpBnCjEXm1ssFexAw6wKB1oxiEZX4JJhpmA=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.HackerModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Spongebob",
+      "image":"https://play-lh.googleusercontent.com/6tIsqSJsRQ3_0DDnnk5t-0UiaVCSofi4G4A1EVhrbsJKxfa5ywUhzA5JE1M-FyaM3pUm=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.SpongebobModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Camouflage",
+      "image":"https://play-lh.googleusercontent.com/vapBXG9euKuNyrd8jAEVhB4B0uL66vxhI-nLqEbk_y_iE8qGCKy8avU-zTIduYsQEMQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.camouflageModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Haikyuu",
+      "image":"https://play-lh.googleusercontent.com/qg0Su5Xy2zcMyAlP35NFW_DLcJe4p2mOSnmZxTwXav9z1jrO4qLhNdeeFpIKIc95CG0=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.HaikyuuModCraft"
+    },
+    {
+      "id":0,
+      "judul":"Sonic",
+      "image":"https://play-lh.googleusercontent.com/mOeIikMUYVXHDKZ19iVIYS8aqHL6rNJLmB0EN4QpGLgkdVPvwb1pjcz1SOIfruC33us=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Sonicmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Amongus",
+      "image":"https://play-lh.googleusercontent.com/DGCfevfAiUaeWg0ph8D5NkJK5rNFY3vQjnc8a_ksaXVG1xaV4HEpXngXEi7mhE1wDw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Amongusmodcraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Konoha",
+      "image":"https://play-lh.googleusercontent.com/FTof5v6wOSny0sYpMbDrGdVmpGapNaCW5Y81Q0Uv6TXJOL9At79TMe_dVRQcuu731Q=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Konohamodcraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Super Mario",
+      "image":"https://play-lh.googleusercontent.com/vW9ww_YOAVjcyDr2xqorsHa53tSlcmYg-jTH9tACficzmvKJ2y-8sTvD_ZQfO2M-3N0=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Supermariomodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Minions",
+      "image":"https://play-lh.googleusercontent.com/3kIxX5X8cHaV7x4D3fUP4inOMm_i9qk1-4JSguQsGie786XYz5Wa5OE5ulXUl0Akfmk=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Minionsmodcraftpe"
+    }
+  ],
+  "Skin":
+  [
+     {
+      "id":0,
+      "judul":"Kawaii",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":0,
+      "judul":"Dream",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":0,
+      "judul":"Zombie",
+      "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
+    },
+	{
+      "id":0,
+      "judul":"BTS Boyband",
+      "image":"https://play-lh.googleusercontent.com/J_HtYjBQcvXRA5j3rAbZ2atmrjmlF1Y2DgIji0kGcaiP8DVxczEtXobcalCl3H5zJgM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.btsskinminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Sadako",
+      "image":"https://play-lh.googleusercontent.com/MCEuVwrAtpXiAfrqQXib4yigT1rP8PdMS25QgVco9AmDJ1X17EpmNBH1GDqRI3oIE9E=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.sadakoskinmodforminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"PinkGirl Princess",
+      "image":"https://play-lh.googleusercontent.com/e-1hecrDWSXBHEvxEF0JawlqKL6tIpjV5J9Vtvf-OPJdSmOGCrvVAF0cMjRUkccHFGGh=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.PinkGirlSkinCraft"
+    },
+    {
+      "id":0,
+      "judul":"Attack on Titan",
+      "image":"https://play-lh.googleusercontent.com/5dYYw-zmRu39-0b1ltpppbdoDV5aUY6bfZWyjih7vqclQAkufXZtKex-eCbJXcpUvg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.skinattackoftitanmod"
+    },
+    {
+      "id":0,
+      "judul":"Friday Night Funkin",
+      "image":"https://play-lh.googleusercontent.com/bOarS5nzpLsxyfzUPoRH6CsanaLTNy4asPf-z-UE-CzZDOoX0jnp523lAXwbUMYGnx0=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.fridayfunkinskinminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Sonic",
+      "image":"https://play-lh.googleusercontent.com/eDZqvO4tvUm8ddB6-7bxc5owAcSwYXLL-9ThIImYHZB3k23kZ-pNbNygujnW2K5pDw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.soniicskincraft"
+    },
+    {
+      "id":0,
+      "judul":"Konoha Ninja",
+      "image":"https://play-lh.googleusercontent.com/sbBnTmVSubGtMYdNuH-LBVX6FzllQLTjFkdpsAQBYj0MgaSjDFFf6GSJOjwYR09vJ8U3=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.konohaskincraft"
+    },
+    {
+      "id":0,
+      "judul":"Boboi Boy",
+      "image":"https://play-lh.googleusercontent.com/flWSyH3vWI6bZRN0V_cpHYTQ6-QW7ZZnPaG2JPtq02XtEMJDU6eZi5tiamgk60LNGXM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.boboiskinmcpe"
+    },
+    {
+      "id":0,
+      "judul":"Dream",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":0,
+      "judul":"FreeFire",
+      "image":"https://play-lh.googleusercontent.com/J8T21WM2zVXutOKuOM8GzWoY5FOyxVz8UCBdVHrIGcgPQDrtE28YIxPeAvyqHamLOaU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.ffskinsminecraftpe"
+    }
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/YQbqb6VWwAJlmiT7TgJzV9GFpZ5QjhVS75e41vYaIcXR-jvmAaobz45yHLi0Cgt9PGwMSobVVDCVoU8eRh4RrA"
+  },
+  {
+    "id":2,
+    "nama_skin":"PUBG Cosplay",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg_cosplay.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZshSnGqwCd_gZfPuWWA7PbM94dMi4zrAWqFfiEKztXvWyaHYOkbKDrFRpf1uPmr05JIUMM5PmnOae24qJGGd"
+  },
+  {
+    "id":3,
+    "nama_skin":"Firaun Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/firaun_pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/Odlwn3VBEJlxleXXsWxX7VznPSjypUk61-L796nzdtq53cd249LQUDa2qAltCdz0O1zEzW3RIJ6bEnd4OallCxI"
+  },
+  {
+    "id":4,
+    "nama_skin":"Pubg 1",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-1.png",
+    "view_skin":"https://lh3.googleusercontent.com/iJMSuxyCabW-UohmWK8Y45p4B55haHt0z3SVNOqSGth01ETRrVkDxJIgX-fzqqI5e0ZBZw5hyUpHNZTBCt4l"
+  },
+  {
+    "id":5,
+    "nama_skin":"Pubg 2",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/5w-it3ItiBo3I1ktWI8x6LCjluP7H8mb0ODysRJChNBsVdi6G0nxvrxtrLbTgWhZlrmyTstqIsMe-ts1Owfj6w"
+  },
+  {
+    "id":6,
+    "nama_skin":"Hyper The PUBG Player",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/hyper-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/p85JBfYLY0nN4O1L1Qz2jwMokWkYTCBx8Ylu5fMoShjMxc6PI1Ox7-WuQnO__8wdnOsFwJKA9DLXi13_C0io5A"
+  },
+  {
+    "id":7,
+    "nama_skin":"PUBG Bao Dep Zai",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-bao.png",
+    "view_skin":"https://lh3.googleusercontent.com/904c_O5JOgssnBsvUPdXMCKHZEZonV2DERVgz0Yc78VOBtlRGuU52lAAPYjGHqPD3U-O-Gzt8GKmuHlTS7w4"
+  },
+  {
+    "id":8,
+    "nama_skin":"Pubg Assasin",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-assasin.png",
+    "view_skin":"https://lh3.googleusercontent.com/op1dlM_JIbM9GunhgK3nQ9HLJ1DNxo8I8u5C0DpCpxsIacIUOEBIz4Y_ycPwh898Yb1qt9ieUV2aI4bdxWEk_Q"
+  },
+  {
+    "id":9,
+    "nama_skin":"Lyra JJ PUBG",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/lyra-jj-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/qqcD-J2eAQ60PUNm0nz0FnefY_YebLmaBW8qdaolhA5v9oW6-RB9_xJ-tjy0A1dku8Kf_CiVyW__jiiUz6x3Cg"
+  },
+  {
+    "id":10,
+    "nama_skin":"Pubg Team",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-team.png",
+    "view_skin":"https://lh3.googleusercontent.com/ruub-saZ-eQ9Wz3j51aUOhRXa8N9nZS9_Z4iSC5FVu2OvnridZIfqS9JOzLcOIbimEiGdZzP9WGVZvDbv0Vv_g"
+  },
+  {
+    "id":11,
+    "nama_skin":"Steve HD 365 Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/steve-hd.png",
+    "view_skin":"https://lh3.googleusercontent.com/thkWf8JMWL3xpd20dD5vvesAxI8yPiPT9z3sqihcKM7H4gIbydG5UicN97jm64NTBq-AdFlY5Bb5iBgPWJELHg"
+  },
+  {
+    "id":12,
+    "nama_skin":"Pubg Rtq",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-rtq.png",
+    "view_skin":"https://lh3.googleusercontent.com/fMJJd6mFApbZqXl7NCc77Ir5OEg1V1LktCJUwHBwC1jexdod6bjwYXlfzyaNtYucUISFM-mWFtUMapHuV3x7dQ"
+  },
+  {
+    "id":13,
+    "nama_skin":"Pubg Player",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-player.png",
+    "view_skin":"https://lh3.googleusercontent.com/qFOghEpcbxA640Un5ZsuFyF8Es3ad969lENJgom0U77rHl-MUxF1m-wzoIwJvXUxbDzOibMMXAXQ-3IariBgTks"
+  },
+  {
+    "id":14,
+    "nama_skin":"Fredinator Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/fredinator-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/39OG9XOvXZBTL6M6SxFM6arJ8aA7EOveP_lK_sEgEL29GnntzMdczgNAuWOheRHJVtOSpkcdvxd3xM2C3QD5zQ"
+  },
+  {
+    "id":15,
+    "nama_skin":"Pubg Jo",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-jo.png",
+    "view_skin":"https://lh3.googleusercontent.com/JlMBQ2fl9X2DRE_W0dHKJOzLKY33uvsmAEAcEuEEYdM826gLT7M97J9c39_5uU_MhtyQ44GhKddnoXelNd_q"
+  },
+  {	
+	 "id":16,
+    "nama_skin":"PUBG New Character",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-new-character.png",
+    "view_skin":"https://lh3.googleusercontent.com/-TpfbKdyzduy1F268ZBOOXMNa8CX3xQRrRXw8YnkkncF-8yTRD6Znf86wIjv1UoqjVPhykBfXeH_o_E20EemLg"
+  },
+  {
+    "id":17,
+    "nama_skin":"Pubg Minecraft Guy",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-minecraft.png",
+    "view_skin":"https://lh3.googleusercontent.com/aIP-cY6tyR18VrYoRp9CxOk-RmaFeWd0x2Cf_Xcd5NL0vgzqHoglrQRaTkrrb1mddDWTcl1tn1fQ5BddhqoNdSg"
+  },
+  {
+    "id":18,
+    "nama_skin":"Pubg Gamer",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-gamer.png",
+    "view_skin":"https://lh3.googleusercontent.com/ELj8I2rPxwAzPa19TdhQLLmlhe8bpzPISMSmPIBMAKbkzdN4ukogP3017lc_DdfYqkdqNiu7Huzu45Ug4cC6"
+  },
+  {
+    "id":19,
+    "nama_skin":"Pubg Mc Mcpc",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-mc-mcpc.png",
+    "view_skin":"https://lh3.googleusercontent.com/jZ7FDopyvhV4PLApsORh5fRGw2hep5aWsxlbWo9p7n-6uetCvybJ3li7scOjsTyJ3FPF4HMOqteftBF8Swf6"
+  },
+  {
+    "id":20,
+    "nama_skin":"Gamedroid Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/gamedroid-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/DI66SdCTJqqJe7ge_mrTn8bSblLwmTkUR7dwGOlnEo-Gnxb2dszoFnu5nSCh5KvBI3_1HX1o78PJ3uqZBAZ90g"
+  },
+  {
+    "id":21,
+    "nama_skin":"Pubg Chicken",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-chicken.png",
+    "view_skin":"https://lh3.googleusercontent.com/ie3Dnzydu3qmEZTnAX7-A_XJj3Mvvc8CB97NjyyDDw0_GFBVweADVtGZjlHMD16ms2wNTI6iznEniCsooOtgOQ"
+  },
+  {
+    "id":22,
+    "nama_skin":"Pubg Rainbow",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-rainbow.png",
+    "view_skin":"https://lh3.googleusercontent.com/1SSNQsyjS0mkYCyq2b0csTmZx145UzEbmUUgFjPSc7WcuNkq9F74xml3WeFXlyT6yPczgvXrRB42uFe3lnZBaKo"
+  },
+  {
+    "id":23,
+    "nama_skin":"Pubg Minecaft",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-minecaft.png",
+    "view_skin":"https://lh3.googleusercontent.com/jqvH9UMWFqGID5bYZv6t_0_xpXSbBqrwydt_pK7ZK4jWnZq34Th5k9rLDCZC3M9M0ULThWdiH3nCyWhpw9Q_qQ"
+  },
+  {
+    "id":24,
+    "nama_skin":"Pubg Adam",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-adam.png",
+    "view_skin":"https://lh3.googleusercontent.com/bwMM6sagGwSsq-VzKx_jUGhepAnybP1FN593dJQ4ztVd_JeJCeowvemg7bToEAMuj3VvaLIYkw3pwt7WzWdsRKk"
+  },
+
+  {
+    "id":25,
+    "nama_skin":"PUBG Girl",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/KxDQtfqla7yVvP8_6k2EY5p4mArsYxrUoLg7YxQfZdKiYU9kPG9XpHtBhkDMVgLMLfDzeIycNi1UZru5L2Z8MQ"
+  },
+  {
+    "id":26,
+    "nama_skin":"Pubg LIte Skin",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-lite-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/EBOHa1VdDDKNF-VKbP_3ThVauxO2pF0KwlKS8U6uzaHArIwNfZhWjIkIKbw1DowqI4ftXlLJ-X0IDZKatF0LFA"
+  },
+  {
+    "id":27,
+    "nama_skin":"PUBG Lol",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-lol.png",
+    "view_skin":"https://lh3.googleusercontent.com/u48l4a4xbIZjJkYRfgMINJF9F0nrePX1vtwrzyjar6wIrrX9Sxk1dftUX6c_Z59291jqt7XnQRyB3AeeK2ly"
+  },
+  {
+    "id":28,
+    "nama_skin":"PUBG Creeper Mode",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-creeper.png",
+    "view_skin":"https://lh3.googleusercontent.com/1df0AE95OnpZzgxclBxqwGPHIr11_gnkt9HAXX8xOd7qgLg3YGHnow8SX2f2dcmrHYFrm0Vi6Rtu8rpZTV21"
+  },
+  {
+    "id":29,
+    "nama_skin":"Pubg Noob Player",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-noob-player.png",
+    "view_skin":"https://lh3.googleusercontent.com/5iq_-8DxkNGln01JF2qXx6ZlwXVXV38-oNH_NCwTL-899z5_6gslSZwWdwfQua7EnDlS2uVI-TkejltAjoU37g"
+  },
+  {
+    "id":30,
+    "nama_skin":"Pubg Navidad",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-navidad.png",
+    "view_skin":"https://lh3.googleusercontent.com/yPoHwSzAKnIxF9PA3WPCLWex5tuUeHsXBJEJZt41ajwBVeXxHJ4GgoLiHNK2cLqmucbd-7U8KEv8_P3tTHae8A"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/lasergun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/numberblock.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/imposter.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/uncrafting.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/furniture.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/gun.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/dynamite.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://oyskins.github.io/Tutorial/addon/actualguns.png",
+      "des_add":"https://oyskins.github.io/Tutorial/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/badrok-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/among-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Cubical-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Achievement-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/HardCoreLine-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://oyskins.github.io/Tutorial/map/Neighbor-min.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
